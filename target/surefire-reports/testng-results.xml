@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+    <line>
+      <![CDATA[TestA test started...]]>
+    </line>
+    <line>
+      <![CDATA[loginTest test started...]]>
+    </line>
+    <line>
+      <![CDATA[loginTest test passed...]]>
+    </line>
+    <line>
+      <![CDATA[loginTest test started...]]>
+    </line>
+    <line>
+      <![CDATA[loginTest test passed...]]>
+    </line>
+    <line>
+      <![CDATA[loginTest test started...]]>
+    </line>
+    <line>
+      <![CDATA[loginTest test passed...]]>
+    </line>
+    <line>
+      <![CDATA[loginTest test started...]]>
+    </line>
+    <line>
+      <![CDATA[loginTest test passed...]]>
+    </line>
+    <line>
+      <![CDATA[TestA test finished...]]>
+    </line>
+    <line>
+      <![CDATA[TestB test started...]]>
+    </line>
+    <line>
+      <![CDATA[loginTestB test started...]]>
+    </line>
+    <line>
+      <![CDATA[loginTestB test passed...]]>
+    </line>
+    <line>
+      <![CDATA[TestB test finished...]]>
+    </line>
+    <line>
+      <![CDATA[TestC test started...]]>
+    </line>
+    <line>
+      <![CDATA[loginTestC test started...]]>
+    </line>
+    <line>
+      <![CDATA[loginTestC test passed...]]>
+    </line>
+    <line>
+      <![CDATA[TestC test finished...]]>
+    </line>
+    <line>
+      <![CDATA[TestScreenShot test started...]]>
+    </line>
+    <line>
+      <![CDATA[testScreen test started...]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/test-output/screenshots/facebookSceenShot_23-08-2018_12:23:30.png'><img src='/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/test-output/screenshots/facebookSceenShot_23-08-2018_12:23:30.png' height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[testScreen test passed...]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/test-output/screenshots/testScreen_23-08-2018_12:23:31.png'><img src='/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/test-output/screenshots/testScreen_23-08-2018_12:23:31.png' height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="regressionSuite" duration-ms="8738" started-at="2018-11-08T05:23:23Z" finished-at="2018-11-08T05:23:32Z">
+    <groups>
+    </groups>
+    <test name="TestA" duration-ms="31" started-at="2018-11-08T05:23:23Z" finished-at="2018-11-08T05:23:23Z">
+      <class name="com.dunkin.TestA">
+        <test-method status="PASS" signature="loginTest(java.lang.String)[pri:0, instance:com.dunkin.TestA@2a2d45ba]" name="loginTest" duration-ms="2" started-at="2018-11-08T00:23:23Z" data-provider="datas" finished-at="2018-11-08T00:23:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[loginTest test started...]]>
+            </line>
+            <line>
+              <![CDATA[loginTest test passed...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String)[pri:0, instance:com.dunkin.TestA@2a2d45ba]" name="loginTest" duration-ms="1" started-at="2018-11-08T00:23:23Z" data-provider="datas" finished-at="2018-11-08T00:23:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[234abc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[loginTest test started...]]>
+            </line>
+            <line>
+              <![CDATA[loginTest test passed...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String)[pri:0, instance:com.dunkin.TestA@2a2d45ba]" name="loginTest" duration-ms="0" started-at="2018-11-08T00:23:23Z" data-provider="datas" finished-at="2018-11-08T00:23:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cds]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[loginTest test started...]]>
+            </line>
+            <line>
+              <![CDATA[loginTest test passed...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String)[pri:0, instance:com.dunkin.TestA@2a2d45ba]" name="loginTest" duration-ms="1" started-at="2018-11-08T00:23:23Z" data-provider="datas" finished-at="2018-11-08T00:23:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[loginTest test started...]]>
+            </line>
+            <line>
+              <![CDATA[loginTest test passed...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.dunkin.TestA -->
+    </test> <!-- TestA -->
+    <test name="TestB" duration-ms="4" started-at="2018-11-08T05:23:23Z" finished-at="2018-11-08T05:23:23Z">
+      <class name="com.dunkin.TestB">
+        <test-method status="PASS" signature="loginTestB()[pri:0, instance:com.dunkin.TestB@61832929]" name="loginTestB" duration-ms="2" started-at="2018-11-08T00:23:23Z" finished-at="2018-11-08T00:23:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[loginTestB test started...]]>
+            </line>
+            <line>
+              <![CDATA[loginTestB test passed...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTestB -->
+      </class> <!-- com.dunkin.TestB -->
+    </test> <!-- TestB -->
+    <test name="TestC" duration-ms="5" started-at="2018-11-08T05:23:23Z" finished-at="2018-11-08T05:23:23Z">
+      <class name="com.dunkin.TestC">
+        <test-method status="PASS" signature="loginTestC()[pri:0, instance:com.dunkin.TestC@ae45eb6]" name="loginTestC" duration-ms="4" started-at="2018-11-08T00:23:23Z" finished-at="2018-11-08T00:23:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[loginTestC test started...]]>
+            </line>
+            <line>
+              <![CDATA[loginTestC test passed...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTestC -->
+      </class> <!-- com.dunkin.TestC -->
+    </test> <!-- TestC -->
+    <test name="TestScreenShot" duration-ms="8679" started-at="2018-11-08T05:23:23Z" finished-at="2018-11-08T05:23:32Z">
+      <class name="com.dunkin.shadman.onlineStore.testScripts.TestScreenShot">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.dunkin.shadman.onlineStore.testScripts.TestScreenShot@1a968a59]" name="beforeSuite" is-config="true" duration-ms="207" started-at="2018-11-08T00:23:23Z" finished-at="2018-11-08T00:23:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.dunkin.shadman.onlineStore.testScripts.TestScreenShot@1a968a59]" name="beforeTest" is-config="true" duration-ms="2619" started-at="2018-11-08T00:23:23Z" finished-at="2018-11-08T00:23:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.dunkin.shadman.onlineStore.testScripts.TestScreenShot@1a968a59]" name="beforeClass" is-config="true" duration-ms="4" started-at="2018-11-08T00:23:26Z" finished-at="2018-11-08T00:23:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.dunkin.shadman.onlineStore.testScripts.TestScreenShot@1a968a59]" name="beforeMethod" is-config="true" duration-ms="18" started-at="2018-11-08T00:23:26Z" finished-at="2018-11-08T00:23:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.dunkin.shadman.onlineStore.testScripts.TestScreenShot.testScreen() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testScreen()[pri:0, instance:com.dunkin.shadman.onlineStore.testScripts.TestScreenShot@1a968a59]" name="testScreen" duration-ms="5187" started-at="2018-11-08T00:23:26Z" finished-at="2018-11-08T00:23:31Z">
+          <reporter-output>
+            <line>
+              <![CDATA[testScreen test started...]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/test-output/screenshots/facebookSceenShot_23-08-2018_12:23:30.png'><img src='/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/test-output/screenshots/facebookSceenShot_23-08-2018_12:23:30.png' height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[testScreen test passed...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testScreen -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.dunkin.shadman.onlineStore.testScripts.TestScreenShot@1a968a59]" name="afterMethod" is-config="true" duration-ms="698" started-at="2018-11-08T00:23:31Z" finished-at="2018-11-08T00:23:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testScreen status=SUCCESS method=TestScreenShot.testScreen()[pri:0, instance:com.dunkin.shadman.onlineStore.testScripts.TestScreenShot@1a968a59] output=testScreen test started...]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/test-output/screenshots/testScreen_23-08-2018_12:23:31.png'><img src='/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/test-output/screenshots/testScreen_23-08-2018_12:23:31.png' height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.dunkin.shadman.onlineStore.testScripts.TestScreenShot@1a968a59]" name="afterTest" is-config="true" duration-ms="152" started-at="2018-11-08T00:23:32Z" finished-at="2018-11-08T00:23:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.dunkin.shadman.onlineStore.testScripts.TestScreenShot -->
+    </test> <!-- TestScreenShot -->
+  </suite> <!-- regressionSuite -->
+</testng-results>

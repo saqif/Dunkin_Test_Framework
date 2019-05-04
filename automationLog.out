@@ -1,0 +1,1725 @@
+56-15-2018 21:10:97 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+56-15-2018 21:10:106 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+56-15-2018 21:10:111 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 3times
+56-15-2018 21:10:140 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+56-15-2018 21:10:147 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+56-15-2018 21:10:151 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 3times
+00-15-2018 22:10:664 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+00-15-2018 22:10:677 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+00-15-2018 22:10:681 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 3times
+00-15-2018 22:10:714 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+00-15-2018 22:10:719 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+00-15-2018 22:10:724 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 3times
+10-15-2018 22:10:460 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+10-15-2018 22:10:470 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+10-15-2018 22:10:474 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 3times
+10-15-2018 22:10:503 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+10-15-2018 22:10:506 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+10-15-2018 22:10:511 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 3times
+10-16-2018 10:10:40 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+10-16-2018 10:10:52 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+10-16-2018 10:10:58 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 3times
+10-16-2018 10:10:85 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+10-16-2018 10:10:90 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+10-16-2018 10:10:93 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 3times
+10-16-2018 10:10:709 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+10-16-2018 10:10:720 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+10-16-2018 10:10:725 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 3times
+10-16-2018 10:10:750 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+10-16-2018 10:10:755 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+10-16-2018 10:10:759 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 3times
+10-16-2018 10:10:470 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+10-16-2018 10:10:482 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 2times
+10-16-2018 10:10:504 INFO  Retry:17 - Retrying test loginTest with status FAILURE for the 1times
+10-16-2018 10:10:793 INFO  Retry:17 - Retrying test loginTestB with status FAILURE for the 1times
+10-16-2018 10:10:808 INFO  Retry:17 - Retrying test loginTestB with status FAILURE for the 2times
+10-16-2018 10:10:832 INFO  Retry:17 - Retrying test loginTestC with status FAILURE for the 1times
+10-21-2018 10:10:340 INFO  ExcelHelper:26 - Trying to read excel sheet
+10-21-2018 10:10:175 INFO  ExcelHelper:30 - Success!
+10-21-2018 10:10:181 INFO  ExcelHelper:49 - Added: cell number [0][0]->Table 1
+10-21-2018 10:10:181 INFO  ExcelHelper:64 - Error: cell number [0][1]: cell data type not matched
+10-21-2018 10:10:181 INFO  ExcelHelper:64 - Error: cell number [0][2]: cell data type not matched
+10-21-2018 10:10:182 INFO  ExcelHelper:64 - Error: cell number [0][3]: cell data type not matched
+10-21-2018 10:10:182 INFO  ExcelHelper:64 - Error: cell number [0][4]: cell data type not matched
+10-21-2018 10:10:182 INFO  ExcelHelper:64 - Error: cell number [0][5]: cell data type not matched
+10-21-2018 10:10:183 INFO  ExcelHelper:64 - Error: cell number [0][6]: cell data type not matched
+10-21-2018 10:10:183 INFO  ExcelHelper:49 - Added: cell number [1][0]->Username
+10-21-2018 10:10:184 INFO  ExcelHelper:49 - Added: cell number [1][1]->Password
+10-21-2018 10:10:184 INFO  ExcelHelper:64 - Error: cell number [1][2]: cell data type not matched
+10-21-2018 10:10:184 INFO  ExcelHelper:64 - Error: cell number [1][3]: cell data type not matched
+10-21-2018 10:10:184 INFO  ExcelHelper:64 - Error: cell number [1][4]: cell data type not matched
+10-21-2018 10:10:184 INFO  ExcelHelper:64 - Error: cell number [1][5]: cell data type not matched
+10-21-2018 10:10:185 INFO  ExcelHelper:64 - Error: cell number [1][6]: cell data type not matched
+10-21-2018 10:10:186 INFO  ExcelHelper:49 - Added: cell number [2][0]->shadman
+10-21-2018 10:10:187 INFO  ExcelHelper:49 - Added: cell number [2][1]->shadmanPass
+10-21-2018 10:10:187 INFO  ExcelHelper:64 - Error: cell number [2][2]: cell data type not matched
+10-21-2018 10:10:188 INFO  ExcelHelper:64 - Error: cell number [2][3]: cell data type not matched
+10-21-2018 10:10:188 INFO  ExcelHelper:64 - Error: cell number [2][4]: cell data type not matched
+10-21-2018 10:10:188 INFO  ExcelHelper:64 - Error: cell number [2][5]: cell data type not matched
+10-21-2018 10:10:188 INFO  ExcelHelper:64 - Error: cell number [2][6]: cell data type not matched
+10-21-2018 10:10:188 INFO  ExcelHelper:49 - Added: cell number [3][0]->saleh
+10-21-2018 10:10:189 INFO  ExcelHelper:49 - Added: cell number [3][1]->Pass
+10-21-2018 10:10:189 INFO  ExcelHelper:64 - Error: cell number [3][2]: cell data type not matched
+10-21-2018 10:10:189 INFO  ExcelHelper:64 - Error: cell number [3][3]: cell data type not matched
+10-21-2018 10:10:190 INFO  ExcelHelper:64 - Error: cell number [3][4]: cell data type not matched
+10-21-2018 10:10:190 INFO  ExcelHelper:64 - Error: cell number [3][5]: cell data type not matched
+10-21-2018 10:10:190 INFO  ExcelHelper:64 - Error: cell number [3][6]: cell data type not matched
+10-21-2018 10:10:190 INFO  ExcelHelper:49 - Added: cell number [4][0]->shahriyar
+10-21-2018 10:10:191 INFO  ExcelHelper:49 - Added: cell number [4][1]->shahriyarPass
+10-21-2018 10:10:191 INFO  ExcelHelper:64 - Error: cell number [4][2]: cell data type not matched
+10-21-2018 10:10:191 INFO  ExcelHelper:64 - Error: cell number [4][3]: cell data type not matched
+10-21-2018 10:10:191 INFO  ExcelHelper:64 - Error: cell number [4][4]: cell data type not matched
+10-21-2018 10:10:191 INFO  ExcelHelper:64 - Error: cell number [4][5]: cell data type not matched
+10-21-2018 10:10:191 INFO  ExcelHelper:64 - Error: cell number [4][6]: cell data type not matched
+10-21-2018 10:10:192 INFO  ExcelHelper:64 - Error: cell number [5][0]: cell data type not matched
+10-21-2018 10:10:192 INFO  ExcelHelper:64 - Error: cell number [5][1]: cell data type not matched
+10-21-2018 10:10:192 INFO  ExcelHelper:64 - Error: cell number [5][2]: cell data type not matched
+10-21-2018 10:10:192 INFO  ExcelHelper:64 - Error: cell number [5][3]: cell data type not matched
+10-21-2018 10:10:192 INFO  ExcelHelper:64 - Error: cell number [5][4]: cell data type not matched
+10-21-2018 10:10:193 INFO  ExcelHelper:64 - Error: cell number [5][5]: cell data type not matched
+10-21-2018 10:10:193 INFO  ExcelHelper:64 - Error: cell number [5][6]: cell data type not matched
+10-21-2018 10:10:193 INFO  ExcelHelper:64 - Error: cell number [6][0]: cell data type not matched
+10-21-2018 10:10:193 INFO  ExcelHelper:64 - Error: cell number [6][1]: cell data type not matched
+10-21-2018 10:10:193 INFO  ExcelHelper:64 - Error: cell number [6][2]: cell data type not matched
+10-21-2018 10:10:194 INFO  ExcelHelper:64 - Error: cell number [6][3]: cell data type not matched
+10-21-2018 10:10:194 INFO  ExcelHelper:64 - Error: cell number [6][4]: cell data type not matched
+10-21-2018 10:10:194 INFO  ExcelHelper:64 - Error: cell number [6][5]: cell data type not matched
+10-21-2018 10:10:194 INFO  ExcelHelper:64 - Error: cell number [6][6]: cell data type not matched
+10-21-2018 10:10:194 INFO  ExcelHelper:64 - Error: cell number [7][0]: cell data type not matched
+10-21-2018 10:10:195 INFO  ExcelHelper:64 - Error: cell number [7][1]: cell data type not matched
+10-21-2018 10:10:195 INFO  ExcelHelper:64 - Error: cell number [7][2]: cell data type not matched
+10-21-2018 10:10:195 INFO  ExcelHelper:64 - Error: cell number [7][3]: cell data type not matched
+10-21-2018 10:10:195 INFO  ExcelHelper:64 - Error: cell number [7][4]: cell data type not matched
+10-21-2018 10:10:195 INFO  ExcelHelper:64 - Error: cell number [7][5]: cell data type not matched
+10-21-2018 10:10:195 INFO  ExcelHelper:64 - Error: cell number [7][6]: cell data type not matched
+10-21-2018 10:10:196 INFO  ExcelHelper:64 - Error: cell number [8][0]: cell data type not matched
+10-21-2018 10:10:196 INFO  ExcelHelper:64 - Error: cell number [8][1]: cell data type not matched
+10-21-2018 10:10:196 INFO  ExcelHelper:64 - Error: cell number [8][2]: cell data type not matched
+10-21-2018 10:10:196 INFO  ExcelHelper:64 - Error: cell number [8][3]: cell data type not matched
+10-21-2018 10:10:196 INFO  ExcelHelper:64 - Error: cell number [8][4]: cell data type not matched
+10-21-2018 10:10:196 INFO  ExcelHelper:64 - Error: cell number [8][5]: cell data type not matched
+10-21-2018 10:10:197 INFO  ExcelHelper:64 - Error: cell number [8][6]: cell data type not matched
+10-21-2018 10:10:197 INFO  ExcelHelper:64 - Error: cell number [9][0]: cell data type not matched
+10-21-2018 10:10:197 INFO  ExcelHelper:64 - Error: cell number [9][1]: cell data type not matched
+10-21-2018 10:10:197 INFO  ExcelHelper:64 - Error: cell number [9][2]: cell data type not matched
+10-21-2018 10:10:198 INFO  ExcelHelper:64 - Error: cell number [9][3]: cell data type not matched
+10-21-2018 10:10:198 INFO  ExcelHelper:64 - Error: cell number [9][4]: cell data type not matched
+10-21-2018 10:10:198 INFO  ExcelHelper:64 - Error: cell number [9][5]: cell data type not matched
+10-21-2018 10:10:198 INFO  ExcelHelper:64 - Error: cell number [9][6]: cell data type not matched
+10-21-2018 10:10:198 INFO  ExcelHelper:64 - Error: cell number [10][0]: cell data type not matched
+10-21-2018 10:10:198 INFO  ExcelHelper:64 - Error: cell number [10][1]: cell data type not matched
+10-21-2018 10:10:198 INFO  ExcelHelper:64 - Error: cell number [10][2]: cell data type not matched
+10-21-2018 10:10:199 INFO  ExcelHelper:64 - Error: cell number [10][3]: cell data type not matched
+10-21-2018 10:10:199 INFO  ExcelHelper:64 - Error: cell number [10][4]: cell data type not matched
+10-21-2018 10:10:199 INFO  ExcelHelper:64 - Error: cell number [10][5]: cell data type not matched
+10-21-2018 10:10:199 INFO  ExcelHelper:64 - Error: cell number [10][6]: cell data type not matched
+10-21-2018 10:10:199 INFO  ExcelHelper:64 - Error: cell number [11][0]: cell data type not matched
+10-21-2018 10:10:199 INFO  ExcelHelper:64 - Error: cell number [11][1]: cell data type not matched
+10-21-2018 10:10:200 INFO  ExcelHelper:64 - Error: cell number [11][2]: cell data type not matched
+10-21-2018 10:10:200 INFO  ExcelHelper:64 - Error: cell number [11][3]: cell data type not matched
+10-21-2018 10:10:200 INFO  ExcelHelper:64 - Error: cell number [11][4]: cell data type not matched
+10-21-2018 10:10:200 INFO  ExcelHelper:64 - Error: cell number [11][5]: cell data type not matched
+10-21-2018 10:10:200 INFO  ExcelHelper:64 - Error: cell number [11][6]: cell data type not matched
+10-21-2018 10:10:200 INFO  ExcelHelper:64 - Error: cell number [12][0]: cell data type not matched
+10-21-2018 10:10:201 INFO  ExcelHelper:64 - Error: cell number [12][1]: cell data type not matched
+10-21-2018 10:10:201 INFO  ExcelHelper:64 - Error: cell number [12][2]: cell data type not matched
+10-21-2018 10:10:201 INFO  ExcelHelper:64 - Error: cell number [12][3]: cell data type not matched
+10-21-2018 10:10:201 INFO  ExcelHelper:64 - Error: cell number [12][4]: cell data type not matched
+10-21-2018 10:10:202 INFO  ExcelHelper:64 - Error: cell number [12][5]: cell data type not matched
+10-21-2018 10:10:202 INFO  ExcelHelper:64 - Error: cell number [12][6]: cell data type not matched
+10-21-2018 10:10:202 INFO  ExcelHelper:64 - Error: cell number [13][0]: cell data type not matched
+10-21-2018 10:10:202 INFO  ExcelHelper:64 - Error: cell number [13][1]: cell data type not matched
+10-21-2018 10:10:202 INFO  ExcelHelper:64 - Error: cell number [13][2]: cell data type not matched
+10-21-2018 10:10:203 INFO  ExcelHelper:64 - Error: cell number [13][3]: cell data type not matched
+10-21-2018 10:10:203 INFO  ExcelHelper:64 - Error: cell number [13][4]: cell data type not matched
+10-21-2018 10:10:203 INFO  ExcelHelper:64 - Error: cell number [13][5]: cell data type not matched
+10-21-2018 10:10:203 INFO  ExcelHelper:64 - Error: cell number [13][6]: cell data type not matched
+10-21-2018 10:10:203 INFO  ExcelHelper:64 - Error: cell number [14][0]: cell data type not matched
+10-21-2018 10:10:203 INFO  ExcelHelper:64 - Error: cell number [14][1]: cell data type not matched
+10-21-2018 10:10:204 INFO  ExcelHelper:64 - Error: cell number [14][2]: cell data type not matched
+10-21-2018 10:10:204 INFO  ExcelHelper:64 - Error: cell number [14][3]: cell data type not matched
+10-21-2018 10:10:204 INFO  ExcelHelper:64 - Error: cell number [14][4]: cell data type not matched
+10-21-2018 10:10:205 INFO  ExcelHelper:64 - Error: cell number [14][5]: cell data type not matched
+10-21-2018 10:10:205 INFO  ExcelHelper:64 - Error: cell number [14][6]: cell data type not matched
+10-21-2018 10:10:205 INFO  ExcelHelper:64 - Error: cell number [15][0]: cell data type not matched
+10-21-2018 10:10:206 INFO  ExcelHelper:64 - Error: cell number [15][1]: cell data type not matched
+10-21-2018 10:10:206 INFO  ExcelHelper:64 - Error: cell number [15][2]: cell data type not matched
+10-21-2018 10:10:206 INFO  ExcelHelper:64 - Error: cell number [15][3]: cell data type not matched
+10-21-2018 10:10:207 INFO  ExcelHelper:64 - Error: cell number [15][4]: cell data type not matched
+10-21-2018 10:10:207 INFO  ExcelHelper:64 - Error: cell number [15][5]: cell data type not matched
+10-21-2018 10:10:207 INFO  ExcelHelper:64 - Error: cell number [15][6]: cell data type not matched
+10-21-2018 10:10:207 INFO  ExcelHelper:64 - Error: cell number [16][0]: cell data type not matched
+10-21-2018 10:10:208 INFO  ExcelHelper:64 - Error: cell number [16][1]: cell data type not matched
+10-21-2018 10:10:208 INFO  ExcelHelper:64 - Error: cell number [16][2]: cell data type not matched
+10-21-2018 10:10:208 INFO  ExcelHelper:64 - Error: cell number [16][3]: cell data type not matched
+10-21-2018 10:10:208 INFO  ExcelHelper:64 - Error: cell number [16][4]: cell data type not matched
+10-21-2018 10:10:209 INFO  ExcelHelper:64 - Error: cell number [16][5]: cell data type not matched
+10-21-2018 10:10:209 INFO  ExcelHelper:64 - Error: cell number [16][6]: cell data type not matched
+10-21-2018 10:10:210 INFO  ExcelHelper:64 - Error: cell number [17][0]: cell data type not matched
+10-21-2018 10:10:210 INFO  ExcelHelper:64 - Error: cell number [17][1]: cell data type not matched
+10-21-2018 10:10:210 INFO  ExcelHelper:64 - Error: cell number [17][2]: cell data type not matched
+10-21-2018 10:10:211 INFO  ExcelHelper:64 - Error: cell number [17][3]: cell data type not matched
+10-21-2018 10:10:211 INFO  ExcelHelper:64 - Error: cell number [17][4]: cell data type not matched
+10-21-2018 10:10:211 INFO  ExcelHelper:64 - Error: cell number [17][5]: cell data type not matched
+10-21-2018 10:10:212 INFO  ExcelHelper:64 - Error: cell number [17][6]: cell data type not matched
+10-21-2018 10:10:213 INFO  ExcelHelper:64 - Error: cell number [18][0]: cell data type not matched
+10-21-2018 10:10:213 INFO  ExcelHelper:64 - Error: cell number [18][1]: cell data type not matched
+10-21-2018 10:10:214 INFO  ExcelHelper:64 - Error: cell number [18][2]: cell data type not matched
+10-21-2018 10:10:214 INFO  ExcelHelper:64 - Error: cell number [18][3]: cell data type not matched
+10-21-2018 10:10:214 INFO  ExcelHelper:64 - Error: cell number [18][4]: cell data type not matched
+10-21-2018 10:10:214 INFO  ExcelHelper:64 - Error: cell number [18][5]: cell data type not matched
+10-21-2018 10:10:215 INFO  ExcelHelper:64 - Error: cell number [18][6]: cell data type not matched
+10-21-2018 10:10:215 INFO  ExcelHelper:64 - Error: cell number [19][0]: cell data type not matched
+10-21-2018 10:10:215 INFO  ExcelHelper:64 - Error: cell number [19][1]: cell data type not matched
+10-21-2018 10:10:216 INFO  ExcelHelper:64 - Error: cell number [19][2]: cell data type not matched
+10-21-2018 10:10:216 INFO  ExcelHelper:64 - Error: cell number [19][3]: cell data type not matched
+10-21-2018 10:10:216 INFO  ExcelHelper:64 - Error: cell number [19][4]: cell data type not matched
+10-21-2018 10:10:217 INFO  ExcelHelper:64 - Error: cell number [19][5]: cell data type not matched
+10-21-2018 10:10:217 INFO  ExcelHelper:64 - Error: cell number [19][6]: cell data type not matched
+10-21-2018 10:10:217 INFO  ExcelHelper:64 - Error: cell number [20][0]: cell data type not matched
+10-21-2018 10:10:217 INFO  ExcelHelper:64 - Error: cell number [20][1]: cell data type not matched
+10-21-2018 10:10:218 INFO  ExcelHelper:64 - Error: cell number [20][2]: cell data type not matched
+10-21-2018 10:10:218 INFO  ExcelHelper:64 - Error: cell number [20][3]: cell data type not matched
+10-21-2018 10:10:218 INFO  ExcelHelper:64 - Error: cell number [20][4]: cell data type not matched
+10-21-2018 10:10:218 INFO  ExcelHelper:64 - Error: cell number [20][5]: cell data type not matched
+10-21-2018 10:10:218 INFO  ExcelHelper:64 - Error: cell number [20][6]: cell data type not matched
+10-21-2018 10:10:218 INFO  ExcelHelper:64 - Error: cell number [21][0]: cell data type not matched
+10-21-2018 10:10:219 INFO  ExcelHelper:64 - Error: cell number [21][1]: cell data type not matched
+10-21-2018 10:10:219 INFO  ExcelHelper:64 - Error: cell number [21][2]: cell data type not matched
+10-21-2018 10:10:219 INFO  ExcelHelper:64 - Error: cell number [21][3]: cell data type not matched
+10-21-2018 10:10:220 INFO  ExcelHelper:64 - Error: cell number [21][4]: cell data type not matched
+10-21-2018 10:10:220 INFO  ExcelHelper:64 - Error: cell number [21][5]: cell data type not matched
+10-21-2018 10:10:220 INFO  ExcelHelper:64 - Error: cell number [21][6]: cell data type not matched
+10-21-2018 10:10:220 INFO  ExcelHelper:64 - Error: cell number [22][0]: cell data type not matched
+10-21-2018 10:10:220 INFO  ExcelHelper:64 - Error: cell number [22][1]: cell data type not matched
+10-21-2018 10:10:221 INFO  ExcelHelper:64 - Error: cell number [22][2]: cell data type not matched
+10-21-2018 10:10:221 INFO  ExcelHelper:64 - Error: cell number [22][3]: cell data type not matched
+10-21-2018 10:10:221 INFO  ExcelHelper:64 - Error: cell number [22][4]: cell data type not matched
+10-21-2018 10:10:221 INFO  ExcelHelper:64 - Error: cell number [22][5]: cell data type not matched
+10-21-2018 10:10:221 INFO  ExcelHelper:64 - Error: cell number [22][6]: cell data type not matched
+10-21-2018 10:10:239 INFO  ExcelHelper:26 - Trying to read excel sheet
+10-21-2018 10:10:958 INFO  ExcelHelper:30 - Success!
+10-21-2018 10:10:966 INFO  ExcelHelper:49 - Added: cell number [0][0]->Table 1
+10-21-2018 10:10:967 INFO  ExcelHelper:64 - Error: cell number [0][1]: cell data type not matched
+10-21-2018 10:10:967 INFO  ExcelHelper:64 - Error: cell number [0][2]: cell data type not matched
+10-21-2018 10:10:968 INFO  ExcelHelper:64 - Error: cell number [0][3]: cell data type not matched
+10-21-2018 10:10:969 INFO  ExcelHelper:64 - Error: cell number [0][4]: cell data type not matched
+10-21-2018 10:10:969 INFO  ExcelHelper:64 - Error: cell number [0][5]: cell data type not matched
+10-21-2018 10:10:969 INFO  ExcelHelper:64 - Error: cell number [0][6]: cell data type not matched
+10-21-2018 10:10:970 INFO  ExcelHelper:49 - Added: cell number [1][0]->Username
+10-21-2018 10:10:971 INFO  ExcelHelper:49 - Added: cell number [1][1]->Password
+10-21-2018 10:10:971 INFO  ExcelHelper:64 - Error: cell number [1][2]: cell data type not matched
+10-21-2018 10:10:972 INFO  ExcelHelper:64 - Error: cell number [1][3]: cell data type not matched
+10-21-2018 10:10:972 INFO  ExcelHelper:64 - Error: cell number [1][4]: cell data type not matched
+10-21-2018 10:10:972 INFO  ExcelHelper:64 - Error: cell number [1][5]: cell data type not matched
+10-21-2018 10:10:973 INFO  ExcelHelper:64 - Error: cell number [1][6]: cell data type not matched
+10-21-2018 10:10:975 INFO  ExcelHelper:49 - Added: cell number [2][0]->shadman
+10-21-2018 10:10:976 INFO  ExcelHelper:49 - Added: cell number [2][1]->shadmanPass
+10-21-2018 10:10:976 INFO  ExcelHelper:64 - Error: cell number [2][2]: cell data type not matched
+10-21-2018 10:10:976 INFO  ExcelHelper:64 - Error: cell number [2][3]: cell data type not matched
+10-21-2018 10:10:976 INFO  ExcelHelper:64 - Error: cell number [2][4]: cell data type not matched
+10-21-2018 10:10:977 INFO  ExcelHelper:64 - Error: cell number [2][5]: cell data type not matched
+10-21-2018 10:10:977 INFO  ExcelHelper:64 - Error: cell number [2][6]: cell data type not matched
+10-21-2018 10:10:977 INFO  ExcelHelper:49 - Added: cell number [3][0]->saleh
+10-21-2018 10:10:978 INFO  ExcelHelper:49 - Added: cell number [3][1]->Pass
+10-21-2018 10:10:979 INFO  ExcelHelper:64 - Error: cell number [3][2]: cell data type not matched
+10-21-2018 10:10:979 INFO  ExcelHelper:64 - Error: cell number [3][3]: cell data type not matched
+10-21-2018 10:10:979 INFO  ExcelHelper:64 - Error: cell number [3][4]: cell data type not matched
+10-21-2018 10:10:979 INFO  ExcelHelper:64 - Error: cell number [3][5]: cell data type not matched
+10-21-2018 10:10:980 INFO  ExcelHelper:64 - Error: cell number [3][6]: cell data type not matched
+10-21-2018 10:10:980 INFO  ExcelHelper:49 - Added: cell number [4][0]->shahriyar
+10-21-2018 10:10:981 INFO  ExcelHelper:49 - Added: cell number [4][1]->shahriyarPass
+10-21-2018 10:10:981 INFO  ExcelHelper:64 - Error: cell number [4][2]: cell data type not matched
+10-21-2018 10:10:982 INFO  ExcelHelper:64 - Error: cell number [4][3]: cell data type not matched
+10-21-2018 10:10:982 INFO  ExcelHelper:64 - Error: cell number [4][4]: cell data type not matched
+10-21-2018 10:10:982 INFO  ExcelHelper:64 - Error: cell number [4][5]: cell data type not matched
+10-21-2018 10:10:982 INFO  ExcelHelper:64 - Error: cell number [4][6]: cell data type not matched
+10-21-2018 10:10:983 INFO  ExcelHelper:64 - Error: cell number [5][0]: cell data type not matched
+10-21-2018 10:10:983 INFO  ExcelHelper:64 - Error: cell number [5][1]: cell data type not matched
+10-21-2018 10:10:983 INFO  ExcelHelper:64 - Error: cell number [5][2]: cell data type not matched
+10-21-2018 10:10:983 INFO  ExcelHelper:64 - Error: cell number [5][3]: cell data type not matched
+10-21-2018 10:10:983 INFO  ExcelHelper:64 - Error: cell number [5][4]: cell data type not matched
+10-21-2018 10:10:983 INFO  ExcelHelper:64 - Error: cell number [5][5]: cell data type not matched
+10-21-2018 10:10:984 INFO  ExcelHelper:64 - Error: cell number [5][6]: cell data type not matched
+10-21-2018 10:10:984 INFO  ExcelHelper:64 - Error: cell number [6][0]: cell data type not matched
+10-21-2018 10:10:984 INFO  ExcelHelper:64 - Error: cell number [6][1]: cell data type not matched
+10-21-2018 10:10:984 INFO  ExcelHelper:64 - Error: cell number [6][2]: cell data type not matched
+10-21-2018 10:10:985 INFO  ExcelHelper:64 - Error: cell number [6][3]: cell data type not matched
+10-21-2018 10:10:985 INFO  ExcelHelper:64 - Error: cell number [6][4]: cell data type not matched
+10-21-2018 10:10:985 INFO  ExcelHelper:64 - Error: cell number [6][5]: cell data type not matched
+10-21-2018 10:10:986 INFO  ExcelHelper:64 - Error: cell number [6][6]: cell data type not matched
+10-21-2018 10:10:986 INFO  ExcelHelper:64 - Error: cell number [7][0]: cell data type not matched
+10-21-2018 10:10:986 INFO  ExcelHelper:64 - Error: cell number [7][1]: cell data type not matched
+10-21-2018 10:10:986 INFO  ExcelHelper:64 - Error: cell number [7][2]: cell data type not matched
+10-21-2018 10:10:986 INFO  ExcelHelper:64 - Error: cell number [7][3]: cell data type not matched
+10-21-2018 10:10:987 INFO  ExcelHelper:64 - Error: cell number [7][4]: cell data type not matched
+10-21-2018 10:10:987 INFO  ExcelHelper:64 - Error: cell number [7][5]: cell data type not matched
+10-21-2018 10:10:987 INFO  ExcelHelper:64 - Error: cell number [7][6]: cell data type not matched
+10-21-2018 10:10:987 INFO  ExcelHelper:64 - Error: cell number [8][0]: cell data type not matched
+10-21-2018 10:10:988 INFO  ExcelHelper:64 - Error: cell number [8][1]: cell data type not matched
+10-21-2018 10:10:988 INFO  ExcelHelper:64 - Error: cell number [8][2]: cell data type not matched
+10-21-2018 10:10:988 INFO  ExcelHelper:64 - Error: cell number [8][3]: cell data type not matched
+10-21-2018 10:10:988 INFO  ExcelHelper:64 - Error: cell number [8][4]: cell data type not matched
+10-21-2018 10:10:989 INFO  ExcelHelper:64 - Error: cell number [8][5]: cell data type not matched
+10-21-2018 10:10:989 INFO  ExcelHelper:64 - Error: cell number [8][6]: cell data type not matched
+10-21-2018 10:10:989 INFO  ExcelHelper:64 - Error: cell number [9][0]: cell data type not matched
+10-21-2018 10:10:990 INFO  ExcelHelper:64 - Error: cell number [9][1]: cell data type not matched
+10-21-2018 10:10:990 INFO  ExcelHelper:64 - Error: cell number [9][2]: cell data type not matched
+10-21-2018 10:10:990 INFO  ExcelHelper:64 - Error: cell number [9][3]: cell data type not matched
+10-21-2018 10:10:990 INFO  ExcelHelper:64 - Error: cell number [9][4]: cell data type not matched
+10-21-2018 10:10:990 INFO  ExcelHelper:64 - Error: cell number [9][5]: cell data type not matched
+10-21-2018 10:10:991 INFO  ExcelHelper:64 - Error: cell number [9][6]: cell data type not matched
+10-21-2018 10:10:991 INFO  ExcelHelper:64 - Error: cell number [10][0]: cell data type not matched
+10-21-2018 10:10:991 INFO  ExcelHelper:64 - Error: cell number [10][1]: cell data type not matched
+10-21-2018 10:10:991 INFO  ExcelHelper:64 - Error: cell number [10][2]: cell data type not matched
+10-21-2018 10:10:991 INFO  ExcelHelper:64 - Error: cell number [10][3]: cell data type not matched
+10-21-2018 10:10:992 INFO  ExcelHelper:64 - Error: cell number [10][4]: cell data type not matched
+10-21-2018 10:10:992 INFO  ExcelHelper:64 - Error: cell number [10][5]: cell data type not matched
+10-21-2018 10:10:992 INFO  ExcelHelper:64 - Error: cell number [10][6]: cell data type not matched
+10-21-2018 10:10:992 INFO  ExcelHelper:64 - Error: cell number [11][0]: cell data type not matched
+10-21-2018 10:10:992 INFO  ExcelHelper:64 - Error: cell number [11][1]: cell data type not matched
+10-21-2018 10:10:992 INFO  ExcelHelper:64 - Error: cell number [11][2]: cell data type not matched
+10-21-2018 10:10:993 INFO  ExcelHelper:64 - Error: cell number [11][3]: cell data type not matched
+10-21-2018 10:10:993 INFO  ExcelHelper:64 - Error: cell number [11][4]: cell data type not matched
+10-21-2018 10:10:993 INFO  ExcelHelper:64 - Error: cell number [11][5]: cell data type not matched
+10-21-2018 10:10:993 INFO  ExcelHelper:64 - Error: cell number [11][6]: cell data type not matched
+10-21-2018 10:10:993 INFO  ExcelHelper:64 - Error: cell number [12][0]: cell data type not matched
+10-21-2018 10:10:993 INFO  ExcelHelper:64 - Error: cell number [12][1]: cell data type not matched
+10-21-2018 10:10:993 INFO  ExcelHelper:64 - Error: cell number [12][2]: cell data type not matched
+10-21-2018 10:10:994 INFO  ExcelHelper:64 - Error: cell number [12][3]: cell data type not matched
+10-21-2018 10:10:994 INFO  ExcelHelper:64 - Error: cell number [12][4]: cell data type not matched
+10-21-2018 10:10:994 INFO  ExcelHelper:64 - Error: cell number [12][5]: cell data type not matched
+10-21-2018 10:10:994 INFO  ExcelHelper:64 - Error: cell number [12][6]: cell data type not matched
+10-21-2018 10:10:995 INFO  ExcelHelper:64 - Error: cell number [13][0]: cell data type not matched
+10-21-2018 10:10:995 INFO  ExcelHelper:64 - Error: cell number [13][1]: cell data type not matched
+10-21-2018 10:10:995 INFO  ExcelHelper:64 - Error: cell number [13][2]: cell data type not matched
+10-21-2018 10:10:995 INFO  ExcelHelper:64 - Error: cell number [13][3]: cell data type not matched
+10-21-2018 10:10:996 INFO  ExcelHelper:64 - Error: cell number [13][4]: cell data type not matched
+10-21-2018 10:10:996 INFO  ExcelHelper:64 - Error: cell number [13][5]: cell data type not matched
+10-21-2018 10:10:996 INFO  ExcelHelper:64 - Error: cell number [13][6]: cell data type not matched
+10-21-2018 10:10:997 INFO  ExcelHelper:64 - Error: cell number [14][0]: cell data type not matched
+10-21-2018 10:10:997 INFO  ExcelHelper:64 - Error: cell number [14][1]: cell data type not matched
+10-21-2018 10:10:997 INFO  ExcelHelper:64 - Error: cell number [14][2]: cell data type not matched
+10-21-2018 10:10:997 INFO  ExcelHelper:64 - Error: cell number [14][3]: cell data type not matched
+10-21-2018 10:10:997 INFO  ExcelHelper:64 - Error: cell number [14][4]: cell data type not matched
+10-21-2018 10:10:998 INFO  ExcelHelper:64 - Error: cell number [14][5]: cell data type not matched
+10-21-2018 10:10:998 INFO  ExcelHelper:64 - Error: cell number [14][6]: cell data type not matched
+10-21-2018 10:10:998 INFO  ExcelHelper:64 - Error: cell number [15][0]: cell data type not matched
+10-21-2018 10:10:998 INFO  ExcelHelper:64 - Error: cell number [15][1]: cell data type not matched
+10-21-2018 10:10:999 INFO  ExcelHelper:64 - Error: cell number [15][2]: cell data type not matched
+10-21-2018 10:10:999 INFO  ExcelHelper:64 - Error: cell number [15][3]: cell data type not matched
+10-21-2018 10:10:999 INFO  ExcelHelper:64 - Error: cell number [15][4]: cell data type not matched
+10-21-2018 10:10:999 INFO  ExcelHelper:64 - Error: cell number [15][5]: cell data type not matched
+10-21-2018 10:10:999 INFO  ExcelHelper:64 - Error: cell number [15][6]: cell data type not matched
+10-21-2018 10:10:00 INFO  ExcelHelper:64 - Error: cell number [16][0]: cell data type not matched
+10-21-2018 10:10:00 INFO  ExcelHelper:64 - Error: cell number [16][1]: cell data type not matched
+10-21-2018 10:10:00 INFO  ExcelHelper:64 - Error: cell number [16][2]: cell data type not matched
+10-21-2018 10:10:00 INFO  ExcelHelper:64 - Error: cell number [16][3]: cell data type not matched
+10-21-2018 10:10:00 INFO  ExcelHelper:64 - Error: cell number [16][4]: cell data type not matched
+10-21-2018 10:10:01 INFO  ExcelHelper:64 - Error: cell number [16][5]: cell data type not matched
+10-21-2018 10:10:01 INFO  ExcelHelper:64 - Error: cell number [16][6]: cell data type not matched
+10-21-2018 10:10:01 INFO  ExcelHelper:64 - Error: cell number [17][0]: cell data type not matched
+10-21-2018 10:10:01 INFO  ExcelHelper:64 - Error: cell number [17][1]: cell data type not matched
+10-21-2018 10:10:01 INFO  ExcelHelper:64 - Error: cell number [17][2]: cell data type not matched
+10-21-2018 10:10:02 INFO  ExcelHelper:64 - Error: cell number [17][3]: cell data type not matched
+10-21-2018 10:10:02 INFO  ExcelHelper:64 - Error: cell number [17][4]: cell data type not matched
+10-21-2018 10:10:02 INFO  ExcelHelper:64 - Error: cell number [17][5]: cell data type not matched
+10-21-2018 10:10:02 INFO  ExcelHelper:64 - Error: cell number [17][6]: cell data type not matched
+10-21-2018 10:10:03 INFO  ExcelHelper:64 - Error: cell number [18][0]: cell data type not matched
+10-21-2018 10:10:03 INFO  ExcelHelper:64 - Error: cell number [18][1]: cell data type not matched
+10-21-2018 10:10:03 INFO  ExcelHelper:64 - Error: cell number [18][2]: cell data type not matched
+10-21-2018 10:10:03 INFO  ExcelHelper:64 - Error: cell number [18][3]: cell data type not matched
+10-21-2018 10:10:03 INFO  ExcelHelper:64 - Error: cell number [18][4]: cell data type not matched
+10-21-2018 10:10:04 INFO  ExcelHelper:64 - Error: cell number [18][5]: cell data type not matched
+10-21-2018 10:10:04 INFO  ExcelHelper:64 - Error: cell number [18][6]: cell data type not matched
+10-21-2018 10:10:05 INFO  ExcelHelper:64 - Error: cell number [19][0]: cell data type not matched
+10-21-2018 10:10:05 INFO  ExcelHelper:64 - Error: cell number [19][1]: cell data type not matched
+10-21-2018 10:10:05 INFO  ExcelHelper:64 - Error: cell number [19][2]: cell data type not matched
+10-21-2018 10:10:05 INFO  ExcelHelper:64 - Error: cell number [19][3]: cell data type not matched
+10-21-2018 10:10:06 INFO  ExcelHelper:64 - Error: cell number [19][4]: cell data type not matched
+10-21-2018 10:10:06 INFO  ExcelHelper:64 - Error: cell number [19][5]: cell data type not matched
+10-21-2018 10:10:06 INFO  ExcelHelper:64 - Error: cell number [19][6]: cell data type not matched
+10-21-2018 10:10:06 INFO  ExcelHelper:64 - Error: cell number [20][0]: cell data type not matched
+10-21-2018 10:10:06 INFO  ExcelHelper:64 - Error: cell number [20][1]: cell data type not matched
+10-21-2018 10:10:07 INFO  ExcelHelper:64 - Error: cell number [20][2]: cell data type not matched
+10-21-2018 10:10:07 INFO  ExcelHelper:64 - Error: cell number [20][3]: cell data type not matched
+10-21-2018 10:10:07 INFO  ExcelHelper:64 - Error: cell number [20][4]: cell data type not matched
+10-21-2018 10:10:07 INFO  ExcelHelper:64 - Error: cell number [20][5]: cell data type not matched
+10-21-2018 10:10:07 INFO  ExcelHelper:64 - Error: cell number [20][6]: cell data type not matched
+10-21-2018 10:10:07 INFO  ExcelHelper:64 - Error: cell number [21][0]: cell data type not matched
+10-21-2018 10:10:08 INFO  ExcelHelper:64 - Error: cell number [21][1]: cell data type not matched
+10-21-2018 10:10:08 INFO  ExcelHelper:64 - Error: cell number [21][2]: cell data type not matched
+10-21-2018 10:10:08 INFO  ExcelHelper:64 - Error: cell number [21][3]: cell data type not matched
+10-21-2018 10:10:08 INFO  ExcelHelper:64 - Error: cell number [21][4]: cell data type not matched
+10-21-2018 10:10:08 INFO  ExcelHelper:64 - Error: cell number [21][5]: cell data type not matched
+10-21-2018 10:10:08 INFO  ExcelHelper:64 - Error: cell number [21][6]: cell data type not matched
+10-21-2018 10:10:08 INFO  ExcelHelper:64 - Error: cell number [22][0]: cell data type not matched
+10-21-2018 10:10:08 INFO  ExcelHelper:64 - Error: cell number [22][1]: cell data type not matched
+10-21-2018 10:10:09 INFO  ExcelHelper:64 - Error: cell number [22][2]: cell data type not matched
+10-21-2018 10:10:09 INFO  ExcelHelper:64 - Error: cell number [22][3]: cell data type not matched
+10-21-2018 10:10:09 INFO  ExcelHelper:64 - Error: cell number [22][4]: cell data type not matched
+10-21-2018 10:10:09 INFO  ExcelHelper:64 - Error: cell number [22][5]: cell data type not matched
+10-21-2018 10:10:09 INFO  ExcelHelper:64 - Error: cell number [22][6]: cell data type not matched
+10-21-2018 10:10:981 INFO  ExcelHelper:26 - Trying to read excel sheet
+10-21-2018 10:10:681 INFO  ExcelHelper:30 - Success!
+10-21-2018 10:10:687 INFO  ExcelHelper:49 - Added: cell number [0][0]->Username
+10-21-2018 10:10:688 INFO  ExcelHelper:49 - Added: cell number [0][1]->Password
+10-21-2018 10:10:688 INFO  ExcelHelper:49 - Added: cell number [1][0]->shadman
+10-21-2018 10:10:689 INFO  ExcelHelper:49 - Added: cell number [1][1]->shadmanPass
+10-21-2018 10:10:691 INFO  ExcelHelper:49 - Added: cell number [2][0]->saleh
+10-21-2018 10:10:691 INFO  ExcelHelper:49 - Added: cell number [2][1]->Pass
+10-21-2018 10:10:693 INFO  ExcelHelper:49 - Added: cell number [3][0]->shahriyar
+10-21-2018 10:10:693 INFO  ExcelHelper:49 - Added: cell number [3][1]->shahriyarPass
+10-21-2018 10:10:943 INFO  ExcelHelper:26 - Trying to read excel sheet
+10-21-2018 10:10:588 INFO  ExcelHelper:30 - Success!
+10-21-2018 10:10:593 INFO  ExcelHelper:49 - Added: cell number [0][0]->Username
+10-21-2018 10:10:594 INFO  ExcelHelper:49 - Added: cell number [0][1]->Password
+10-21-2018 10:10:594 INFO  ExcelHelper:49 - Added: cell number [1][0]->shadman
+10-21-2018 10:10:595 INFO  ExcelHelper:49 - Added: cell number [1][1]->shadmanPass
+10-21-2018 10:10:597 INFO  ExcelHelper:49 - Added: cell number [2][0]->saleh
+10-21-2018 10:10:597 INFO  ExcelHelper:49 - Added: cell number [2][1]->Pass
+10-21-2018 10:10:598 INFO  ExcelHelper:49 - Added: cell number [3][0]->shahriyar
+10-21-2018 10:10:599 INFO  ExcelHelper:49 - Added: cell number [3][1]->shahriyarPass
+10-21-2018 12:10:223 INFO  ExcelHelper:26 - Trying to read excel sheet
+10-21-2018 12:10:20 INFO  ExcelHelper:30 - Success!
+10-21-2018 12:10:26 INFO  ExcelHelper:49 - Added: cell number [0][0]->Username
+10-21-2018 12:10:26 INFO  ExcelHelper:49 - Added: cell number [0][1]->Password
+10-21-2018 12:10:27 INFO  ExcelHelper:49 - Added: cell number [1][0]->shadman
+10-21-2018 12:10:27 INFO  ExcelHelper:49 - Added: cell number [1][1]->shadmanPass
+10-21-2018 12:10:29 INFO  ExcelHelper:49 - Added: cell number [2][0]->saleh
+10-21-2018 12:10:30 INFO  ExcelHelper:49 - Added: cell number [2][1]->Pass
+10-21-2018 12:10:31 INFO  ExcelHelper:49 - Added: cell number [3][0]->shahriyar
+10-21-2018 12:10:32 INFO  ExcelHelper:49 - Added: cell number [3][1]->shahriyarPass
+10-21-2018 21:10:228 INFO  AssertionHelper:28 - making test passed
+10-21-2018 21:10:242 INFO  AssertionHelper:47 - making test failed
+10-21-2018 21:10:259 INFO  AssertionHelper:28 - making test passed
+10-21-2018 21:10:265 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:590 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:916 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:13 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:117 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:430 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:741 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:97 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:400 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:280 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:575 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:841 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:167 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:241 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:300 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:371 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:424 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:479 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:548 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:961 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:251 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:252 INFO  Retry:17 - Retrying test loginTest1 with status FAILURE for the 1times
+10-21-2018 22:10:330 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:331 INFO  Retry:17 - Retrying test loginTest1 with status FAILURE for the 2times
+10-21-2018 22:10:424 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:425 INFO  Retry:17 - Retrying test loginTest1 with status FAILURE for the 3times
+10-21-2018 22:10:515 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:582 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:652 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:656 INFO  Retry:17 - Retrying test loginTest3 with status FAILURE for the 1times
+10-21-2018 22:10:729 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:730 INFO  Retry:17 - Retrying test loginTest3 with status FAILURE for the 2times
+10-21-2018 22:10:778 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:778 INFO  Retry:17 - Retrying test loginTest3 with status FAILURE for the 3times
+10-21-2018 22:10:832 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:863 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:902 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:902 INFO  Retry:17 - Retrying test loginTest1 with status FAILURE for the 1times
+10-21-2018 22:10:953 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:959 INFO  Retry:17 - Retrying test loginTest1 with status FAILURE for the 2times
+10-21-2018 22:10:09 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:09 INFO  Retry:17 - Retrying test loginTest1 with status FAILURE for the 3times
+10-21-2018 22:10:59 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:103 INFO  AssertionHelper:28 - making test passed
+10-21-2018 22:10:148 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:149 INFO  Retry:17 - Retrying test loginTest3 with status FAILURE for the 1times
+10-21-2018 22:10:182 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:183 INFO  Retry:17 - Retrying test loginTest3 with status FAILURE for the 2times
+10-21-2018 22:10:254 INFO  AssertionHelper:47 - making test failed
+10-21-2018 22:10:255 INFO  Retry:17 - Retrying test loginTest3 with status FAILURE for the 3times
+10-21-2018 22:10:295 INFO  AssertionHelper:47 - making test failed
+10-22-2018 16:10:891 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 16:10:895 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 16:10:999 INFO  TestBase:93 - The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+10-22-2018 16:10:815 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 16:10:820 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 16:10:903 INFO  TestBase:93 - The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+10-22-2018 16:10:41 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 16:10:46 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 16:10:364 INFO  TestBase:93 - The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+10-22-2018 16:10:207 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 16:10:211 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 16:10:287 INFO  TestBase:93 - The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+10-22-2018 16:10:127 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 16:10:131 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 16:10:283 INFO  TestBase:93 - The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+10-22-2018 16:10:677 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 16:10:681 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 16:10:632 INFO  TestBase:100 - Browser is being initialized746074699
+10-22-2018 16:10:636 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+10-22-2018 16:10:647 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+10-22-2018 16:10:654 INFO  WaitHelper:159 - page is loaded
+10-22-2018 16:10:171 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 16:10:175 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 16:10:160 INFO  TestBase:100 - Browser is being initialized127791068
+10-22-2018 16:10:162 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+10-22-2018 16:10:174 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+10-22-2018 16:10:179 INFO  WaitHelper:159 - page is loaded
+10-22-2018 16:10:307 INFO  TestBase:124 - Taking ScreenShot
+10-22-2018 16:10:375 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 16:10:379 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 16:10:229 INFO  TestBase:102 - Browser is being initialized127791068
+10-22-2018 16:10:231 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+10-22-2018 16:10:239 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+10-22-2018 16:10:244 INFO  WaitHelper:159 - page is loaded
+10-22-2018 16:10:620 INFO  TestBase:126 - Taking ScreenShot
+10-22-2018 16:10:277 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 16:10:280 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 16:10:152 INFO  TestBase:102 - Browser is being initialized127791068
+10-22-2018 16:10:154 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+10-22-2018 16:10:165 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+10-22-2018 16:10:170 INFO  WaitHelper:159 - page is loaded
+10-22-2018 16:10:423 INFO  TestBase:126 - Taking ScreenShot
+10-22-2018 16:10:460 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 16:10:463 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 16:10:464 INFO  TestBase:102 - Browser is being initialized127791068
+10-22-2018 16:10:466 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+10-22-2018 16:10:475 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+10-22-2018 16:10:479 INFO  WaitHelper:159 - page is loaded
+10-22-2018 16:10:87 INFO  TestBase:126 - Taking ScreenShot
+10-22-2018 17:10:937 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 17:10:943 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 17:10:77 INFO  TestBase:105 - Browser is being initialized1901238627
+10-22-2018 17:10:81 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+10-22-2018 17:10:90 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+10-22-2018 17:10:95 INFO  WaitHelper:159 - page is loaded
+10-22-2018 17:10:419 INFO  TestBase:129 - Taking ScreenShot
+10-22-2018 17:10:308 INFO  PropertyReader:22 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-22-2018 17:10:311 INFO  PropertyReader:26 - Property file loaded
+10-22-2018 17:10:204 INFO  TestBase:107 - Browser is being initialized1901238627
+10-22-2018 17:10:206 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+10-22-2018 17:10:216 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+10-22-2018 17:10:222 INFO  WaitHelper:159 - page is loaded
+10-22-2018 17:10:382 INFO  TestBase:131 - Taking ScreenShot
+10-22-2018 17:10:838 INFO  TestBase:131 - Taking ScreenShot
+10-23-2018 16:10:848 INFO  ExtentListener:31 - TestA test started...
+10-23-2018 16:10:872 INFO  ExtentListener:54 - loginTest test started...
+10-23-2018 16:10:878 INFO  ExtentListener:60 - loginTest test passed...
+10-23-2018 16:10:421 INFO  ExtentListener:31 - TestA test started...
+10-23-2018 16:10:441 INFO  ExtentListener:54 - loginTest test started...
+10-23-2018 16:10:444 INFO  ExtentListener:60 - loginTest test passed...
+10-23-2018 16:10:458 INFO  ExtentListener:24 - TestA test finished...
+10-23-2018 16:10:461 INFO  ExtentListener:31 - TestB test started...
+10-23-2018 16:10:463 INFO  ExtentListener:54 - loginTestB test started...
+10-23-2018 16:10:468 ERROR ExtentListener:42 - loginTestB test failed...java.lang.AssertionError: expected [true] but found [false]
+10-23-2018 16:10:479 INFO  ExtentListener:24 - TestB test finished...
+10-23-2018 16:10:481 INFO  ExtentListener:31 - TestC test started...
+10-23-2018 16:10:483 INFO  ExtentListener:54 - loginTestC test started...
+10-23-2018 16:10:485 ERROR ExtentListener:42 - loginTestC test failed...java.lang.AssertionError: expected [true] but found [false]
+10-23-2018 16:10:490 INFO  ExtentListener:24 - TestC test finished...
+10-23-2018 16:10:492 INFO  ExtentListener:31 - TestScreenShot test started...
+10-23-2018 16:10:494 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-23-2018 16:10:495 INFO  PropertyReader:25 - Property file loaded
+10-23-2018 16:10:691 INFO  TestBase:109 - Browser is being initialized502838712
+10-23-2018 16:10:695 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+10-23-2018 16:10:704 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+10-23-2018 16:10:708 INFO  WaitHelper:159 - page is loaded
+10-23-2018 16:10:900 INFO  ExtentListener:54 - testScreen test started...
+10-23-2018 16:10:268 INFO  TestBase:133 - Taking ScreenShot
+10-23-2018 16:10:282 INFO  ExtentListener:60 - testScreen test passed...
+10-23-2018 16:10:708 INFO  TestBase:133 - Taking ScreenShot
+10-23-2018 16:10:35 INFO  ExtentListener:24 - TestScreenShot test finished...
+10-23-2018 16:10:807 INFO  ExtentListener:31 - TestA test started...
+10-23-2018 16:10:830 INFO  ExtentListener:54 - loginTest test started...
+10-23-2018 16:10:833 INFO  ExtentListener:60 - loginTest test passed...
+10-23-2018 16:10:846 INFO  ExtentListener:24 - TestA test finished...
+10-23-2018 16:10:848 INFO  ExtentListener:31 - TestB test started...
+10-23-2018 16:10:850 INFO  ExtentListener:54 - loginTestB test started...
+10-23-2018 16:10:854 ERROR ExtentListener:42 - loginTestB test failed...java.lang.AssertionError: expected [true] but found [false]
+10-23-2018 16:10:863 INFO  ExtentListener:24 - TestB test finished...
+10-23-2018 16:10:864 INFO  ExtentListener:31 - TestC test started...
+10-23-2018 16:10:866 INFO  ExtentListener:54 - loginTestC test started...
+10-23-2018 16:10:869 ERROR ExtentListener:42 - loginTestC test failed...java.lang.AssertionError: expected [true] but found [false]
+10-23-2018 16:10:874 INFO  ExtentListener:24 - TestC test finished...
+10-23-2018 16:10:875 INFO  ExtentListener:31 - TestScreenShot test started...
+10-23-2018 16:10:877 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-23-2018 16:10:878 INFO  PropertyReader:25 - Property file loaded
+10-23-2018 16:10:671 INFO  TestBase:109 - Browser is being initialized502838712
+10-23-2018 16:10:674 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+10-23-2018 16:10:685 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+10-23-2018 16:10:691 INFO  WaitHelper:159 - page is loaded
+10-23-2018 16:10:874 INFO  ExtentListener:54 - testScreen test started...
+10-23-2018 16:10:21 INFO  ExtentListener:60 - testScreen test passed...
+10-23-2018 16:10:797 INFO  TestBase:133 - Taking ScreenShot
+10-23-2018 16:10:131 INFO  ExtentListener:24 - TestScreenShot test finished...
+10-24-2018 03:10:338 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:345 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:551 ERROR DatabaseHelper:55 - Failed to create Database com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+10-24-2018 03:10:554 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:554 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:555 INFO  DatabaseHelper:70 - Executing Query: select * from member where username='admin'
+10-24-2018 03:10:211 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:217 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:396 ERROR DatabaseHelper:55 - Failed to create Database com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+10-24-2018 03:10:399 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:399 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:399 INFO  DatabaseHelper:72 - Executing Query: select * from member where username='admin'
+10-24-2018 03:10:43 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:47 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:248 ERROR DatabaseHelper:55 - Failed to create Database com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+10-24-2018 03:10:250 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:251 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:251 INFO  DatabaseHelper:72 - Executing Query: select * from member where username='admin'
+10-24-2018 03:10:203 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:212 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:599 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:602 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:309 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:314 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:403 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:407 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:635 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:640 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:934 ERROR DatabaseHelper:55 - Failed to create Database com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+10-24-2018 03:10:940 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:940 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:941 INFO  DatabaseHelper:72 - Executing Query: select * from member where username='admin'
+10-24-2018 03:10:233 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:237 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:38 ERROR DatabaseHelper:55 - Failed to create Database com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+10-24-2018 03:10:64 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:66 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:66 INFO  DatabaseHelper:72 - Executing Query: select * from member where username='admin'
+10-24-2018 03:10:193 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:198 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:537 INFO  DatabaseHelper:49 - Connection succesfull. Connected to database
+10-24-2018 03:10:539 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:540 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:540 INFO  DatabaseHelper:72 - Executing Query: select * from member where username='admin'
+10-24-2018 03:10:293 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:301 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:624 INFO  DatabaseHelper:49 - Connection succesfull. Connected to database
+10-24-2018 03:10:627 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:627 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:627 INFO  DatabaseHelper:72 - Executing Query: select * from members where username='admin'
+10-24-2018 03:10:271 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:275 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:584 INFO  DatabaseHelper:49 - Connection succesfull. Connected to database
+10-24-2018 03:10:586 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:587 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:587 INFO  DatabaseHelper:72 - Executing Query: select * from members where username='admin'
+10-24-2018 03:10:202 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:217 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:616 INFO  DatabaseHelper:49 - Connection succesfull. Connected to database
+10-24-2018 03:10:618 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:618 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:619 INFO  DatabaseHelper:72 - Executing Query: select * from members where username='admin'
+10-24-2018 03:10:628 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:628 INFO  DatabaseHelper:72 - Executing Query: select * from members
+10-24-2018 03:10:134 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:138 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:463 INFO  DatabaseHelper:49 - Connection succesfull. Connected to database
+10-24-2018 03:10:466 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:466 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:467 INFO  DatabaseHelper:72 - Executing Query: select * from members where username='admin'
+10-24-2018 03:10:471 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:471 INFO  DatabaseHelper:72 - Executing Query: select * from members
+10-24-2018 03:10:819 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 03:10:828 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 03:10:199 INFO  DatabaseHelper:49 - Connection succesfull. Connected to database
+10-24-2018 03:10:202 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 03:10:202 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:203 INFO  DatabaseHelper:72 - Executing Query: select * from members where username='admin'
+10-24-2018 03:10:208 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 03:10:208 INFO  DatabaseHelper:72 - Executing Query: select * from members
+10-24-2018 14:10:966 INFO  DatabaseHelper:34 - DatabaseHelper instance is null. Creating new instance.
+10-24-2018 14:10:970 INFO  DatabaseHelper:28 - setting up connection!
+10-24-2018 14:10:299 INFO  DatabaseHelper:49 - Connection succesfull. Connected to database
+10-24-2018 14:10:301 INFO  DatabaseHelper:36 - DatabaseHelper New instance creation successfull.
+10-24-2018 14:10:302 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 14:10:302 INFO  DatabaseHelper:72 - Executing Query: select * from members where username='admin'
+10-24-2018 14:10:306 INFO  DatabaseHelper:39 - DatabaseHelper Returned!
+10-24-2018 14:10:306 INFO  DatabaseHelper:72 - Executing Query: select * from members
+10-24-2018 18:10:334 INFO  ExtentListener:31 - TestA test started...
+10-24-2018 18:10:357 INFO  ExtentListener:54 - loginTest test started...
+10-24-2018 18:10:363 INFO  ExtentListener:60 - loginTest test passed...
+10-24-2018 18:10:386 INFO  ExtentListener:24 - TestA test finished...
+10-24-2018 18:10:389 INFO  ExtentListener:31 - TestB test started...
+10-24-2018 18:10:392 INFO  ExtentListener:54 - loginTestB test started...
+10-24-2018 18:10:399 ERROR ExtentListener:42 - loginTestB test failed...java.lang.AssertionError: expected [true] but found [false]
+10-24-2018 18:10:408 INFO  ExtentListener:24 - TestB test finished...
+10-24-2018 18:10:410 INFO  ExtentListener:31 - TestC test started...
+10-24-2018 18:10:413 INFO  ExtentListener:54 - loginTestC test started...
+10-24-2018 18:10:417 ERROR ExtentListener:42 - loginTestC test failed...java.lang.AssertionError: expected [true] but found [false]
+10-24-2018 18:10:422 INFO  ExtentListener:24 - TestC test finished...
+10-24-2018 18:10:424 INFO  ExtentListener:31 - TestScreenShot test started...
+10-24-2018 18:10:425 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+10-24-2018 18:10:426 INFO  PropertyReader:25 - Property file loaded
+10-24-2018 18:10:749 INFO  TestBase:119 - Browser is being initialized932257672
+10-24-2018 18:10:752 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+10-24-2018 18:10:758 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+10-24-2018 18:10:763 INFO  WaitHelper:159 - page is loaded
+10-24-2018 18:10:960 INFO  ExtentListener:54 - testScreen test started...
+10-24-2018 18:10:860 INFO  ExtentListener:60 - testScreen test passed...
+10-24-2018 18:10:07 INFO  TestBase:143 - Taking ScreenShot
+10-24-2018 18:10:387 INFO  TestBase:91 - driver is quiting
+10-24-2018 18:10:537 INFO  TestBase:93 - driver quit
+10-24-2018 18:10:545 INFO  ExtentListener:24 - TestScreenShot test finished...
+11-01-2018 11:11:329 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-01-2018 11:11:333 INFO  PropertyReader:25 - Property file loaded
+11-01-2018 11:11:553 INFO  TestBase:120 - Browser is being initialized596470015
+11-01-2018 11:11:556 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-01-2018 11:11:564 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-01-2018 11:11:569 INFO  WaitHelper:159 - page is loaded
+11-01-2018 11:11:844 INFO  TestBase:144 - Taking ScreenShot
+11-01-2018 11:11:285 INFO  TestBase:144 - Taking ScreenShot
+11-01-2018 11:11:640 INFO  TestBase:92 - driver is quiting
+11-01-2018 11:11:763 INFO  TestBase:94 - driver quit
+11-04-2018 10:11:271 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-04-2018 10:11:275 INFO  PropertyReader:25 - Property file loaded
+11-04-2018 10:11:204 INFO  TestBase:120 - Browser is being initialized596470015
+11-04-2018 10:11:206 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-04-2018 10:11:213 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-04-2018 10:11:218 INFO  WaitHelper:159 - page is loaded
+11-04-2018 10:11:806 INFO  TestBase:144 - Taking ScreenShot
+11-04-2018 10:11:757 INFO  TestBase:144 - Taking ScreenShot
+11-04-2018 10:11:75 INFO  TestBase:92 - driver is quiting
+11-04-2018 10:11:212 INFO  TestBase:94 - driver quit
+11-04-2018 13:11:598 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-04-2018 13:11:602 INFO  PropertyReader:25 - Property file loaded
+11-04-2018 13:11:728 INFO  TestBase:120 - Browser is being initialized164332069
+11-04-2018 13:11:730 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-04-2018 13:11:737 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-04-2018 13:11:744 INFO  WaitHelper:159 - page is loaded
+11-04-2018 13:11:655 INFO  JavaScriptHelper:21 - initialising JavaScriptHelper
+11-04-2018 13:11:655 INFO  JavaScriptHelper:23 - JavaScriptHelper has been initialised
+11-04-2018 13:11:778 INFO  TestBase:144 - Taking ScreenShot
+11-04-2018 13:11:718 INFO  TestBase:144 - Taking ScreenShot
+11-04-2018 13:11:131 INFO  TestBase:92 - driver is quiting
+11-04-2018 13:11:333 INFO  TestBase:94 - driver quit
+11-04-2018 13:11:364 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-04-2018 13:11:367 INFO  PropertyReader:25 - Property file loaded
+11-04-2018 13:11:223 INFO  TestBase:120 - Browser is being initialized596470015
+11-04-2018 13:11:226 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-04-2018 13:11:242 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-04-2018 13:11:250 INFO  WaitHelper:159 - page is loaded
+11-04-2018 13:11:63 INFO  JavaScriptHelper:21 - initialising JavaScriptHelper
+11-04-2018 13:11:64 INFO  JavaScriptHelper:23 - JavaScriptHelper has been initialised
+11-04-2018 13:11:247 INFO  TestBase:144 - Taking ScreenShot
+11-04-2018 13:11:300 INFO  TestBase:144 - Taking ScreenShot
+11-04-2018 13:11:656 INFO  TestBase:92 - driver is quiting
+11-04-2018 13:11:833 INFO  TestBase:94 - driver quit
+11-04-2018 13:11:976 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-04-2018 13:11:980 INFO  PropertyReader:25 - Property file loaded
+11-04-2018 13:11:858 INFO  TestBase:120 - Browser is being initialized596470015
+11-04-2018 13:11:862 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-04-2018 13:11:870 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-04-2018 13:11:874 INFO  WaitHelper:159 - page is loaded
+11-04-2018 13:11:796 INFO  JavaScriptHelper:21 - initialising JavaScriptHelper
+11-04-2018 13:11:797 INFO  JavaScriptHelper:23 - JavaScriptHelper has been initialised
+11-04-2018 13:11:37 INFO  TestBase:144 - Taking ScreenShot
+11-04-2018 13:11:78 INFO  TestBase:144 - Taking ScreenShot
+11-04-2018 13:11:502 INFO  TestBase:92 - driver is quiting
+11-04-2018 13:11:677 INFO  TestBase:94 - driver quit
+11-04-2018 13:11:551 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-04-2018 13:11:554 INFO  PropertyReader:25 - Property file loaded
+11-04-2018 13:11:443 INFO  TestBase:120 - Browser is being initialized596470015
+11-04-2018 13:11:447 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-04-2018 13:11:456 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-04-2018 13:11:460 INFO  WaitHelper:159 - page is loaded
+11-04-2018 13:11:490 INFO  JavaScriptHelper:21 - initialising JavaScriptHelper
+11-04-2018 13:11:491 INFO  JavaScriptHelper:23 - JavaScriptHelper has been initialised
+11-04-2018 13:11:569 INFO  TestBase:144 - Taking ScreenShot
+11-04-2018 13:11:482 INFO  TestBase:144 - Taking ScreenShot
+11-04-2018 13:11:880 INFO  TestBase:92 - driver is quiting
+11-04-2018 13:11:17 INFO  TestBase:94 - driver quit
+11-04-2018 13:11:190 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-04-2018 13:11:195 INFO  PropertyReader:25 - Property file loaded
+11-04-2018 13:11:96 INFO  TestBase:120 - Browser is being initialized596470015
+11-04-2018 13:11:99 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-04-2018 13:11:107 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-04-2018 13:11:111 INFO  WaitHelper:159 - page is loaded
+11-04-2018 13:11:798 INFO  JavaScriptHelper:21 - initialising JavaScriptHelper
+11-04-2018 13:11:799 INFO  JavaScriptHelper:23 - JavaScriptHelper has been initialised
+11-04-2018 13:11:761 INFO  TestBase:144 - Taking ScreenShot
+11-04-2018 13:11:911 INFO  TestBase:144 - Taking ScreenShot
+11-04-2018 13:11:840 INFO  TestBase:92 - driver is quiting
+11-04-2018 13:11:47 INFO  TestBase:94 - driver quit
+11-04-2018 13:11:994 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-04-2018 13:11:998 INFO  PropertyReader:25 - Property file loaded
+11-04-2018 13:11:140 INFO  TestBase:120 - Browser is being initialized596470015
+11-04-2018 13:11:143 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-04-2018 13:11:151 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-04-2018 13:11:155 INFO  WaitHelper:159 - page is loaded
+11-04-2018 13:11:570 INFO  JavaScriptHelper:21 - initialising JavaScriptHelper
+11-04-2018 13:11:571 INFO  JavaScriptHelper:23 - JavaScriptHelper has been initialised
+11-04-2018 13:11:453 INFO  TestBase:144 - Taking ScreenShot
+11-04-2018 13:11:133 INFO  TestBase:144 - Taking ScreenShot
+11-04-2018 13:11:920 INFO  TestBase:92 - driver is quiting
+11-04-2018 13:11:134 INFO  TestBase:94 - driver quit
+11-04-2018 13:11:35 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-04-2018 13:11:38 INFO  PropertyReader:25 - Property file loaded
+11-04-2018 13:11:28 INFO  TestBase:120 - Browser is being initialized596470015
+11-04-2018 13:11:30 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-04-2018 13:11:45 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-04-2018 13:11:53 INFO  WaitHelper:159 - page is loaded
+11-04-2018 13:11:361 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-04-2018 13:11:365 INFO  PropertyReader:25 - Property file loaded
+11-04-2018 13:11:354 INFO  TestBase:120 - Browser is being initialized596470015
+11-04-2018 13:11:356 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-04-2018 13:11:368 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-04-2018 13:11:374 INFO  WaitHelper:159 - page is loaded
+11-04-2018 13:11:740 INFO  TestBase:144 - Taking ScreenShot
+11-04-2018 13:11:831 INFO  TestBase:144 - Taking ScreenShot
+11-04-2018 13:11:196 INFO  TestBase:92 - driver is quiting
+11-04-2018 13:11:369 INFO  TestBase:94 - driver quit
+11-04-2018 13:11:312 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-04-2018 13:11:316 INFO  PropertyReader:25 - Property file loaded
+11-04-2018 13:11:207 INFO  TestBase:120 - Browser is being initialized596470015
+11-04-2018 13:11:209 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-04-2018 13:11:226 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-04-2018 13:11:233 INFO  WaitHelper:159 - page is loaded
+11-04-2018 13:11:101 INFO  JavaScriptHelper:21 - initialising JavaScriptHelper
+11-04-2018 13:11:102 INFO  JavaScriptHelper:23 - JavaScriptHelper has been initialised
+11-04-2018 13:11:367 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-04-2018 13:11:370 INFO  PropertyReader:25 - Property file loaded
+11-04-2018 13:11:366 INFO  TestBase:120 - Browser is being initialized596470015
+11-04-2018 13:11:369 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-04-2018 13:11:383 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-04-2018 13:11:392 INFO  WaitHelper:159 - page is loaded
+11-04-2018 13:11:674 INFO  JavaScriptHelper:21 - initialising JavaScriptHelper
+11-04-2018 13:11:674 INFO  JavaScriptHelper:23 - JavaScriptHelper has been initialised
+11-04-2018 13:11:917 INFO  TestBase:144 - Taking ScreenShot
+11-04-2018 13:11:999 INFO  TestBase:144 - Taking ScreenShot
+11-04-2018 13:11:344 INFO  TestBase:92 - driver is quiting
+11-04-2018 13:11:544 INFO  TestBase:94 - driver quit
+11-07-2018 16:11:102 INFO  ExtentListener:31 - TestA test started...
+11-07-2018 16:11:124 INFO  ExtentListener:54 - loginTest test started...
+11-07-2018 16:11:126 INFO  ExtentListener:60 - loginTest test passed...
+11-07-2018 16:11:143 INFO  ExtentListener:24 - TestA test finished...
+11-07-2018 16:11:145 INFO  ExtentListener:31 - TestB test started...
+11-07-2018 16:11:147 INFO  ExtentListener:54 - loginTestB test started...
+11-07-2018 16:11:153 ERROR ExtentListener:42 - loginTestB test failed...java.lang.AssertionError: expected [true] but found [false]
+11-07-2018 16:11:182 INFO  ExtentListener:24 - TestB test finished...
+11-07-2018 16:11:184 INFO  ExtentListener:31 - TestC test started...
+11-07-2018 16:11:186 INFO  ExtentListener:54 - loginTestC test started...
+11-07-2018 16:11:190 ERROR ExtentListener:42 - loginTestC test failed...java.lang.AssertionError: expected [true] but found [false]
+11-07-2018 16:11:197 INFO  ExtentListener:24 - TestC test finished...
+11-07-2018 16:11:200 INFO  ExtentListener:31 - TestScreenShot test started...
+11-07-2018 16:11:203 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-07-2018 16:11:204 INFO  PropertyReader:25 - Property file loaded
+11-07-2018 16:11:609 INFO  TestBase:120 - Browser is being initialized196732636
+11-07-2018 16:11:615 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-07-2018 16:11:624 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-07-2018 16:11:631 INFO  WaitHelper:159 - page is loaded
+11-07-2018 16:11:874 INFO  ExtentListener:54 - testScreen test started...
+11-07-2018 16:11:720 INFO  JavaScriptHelper:21 - initialising JavaScriptHelper
+11-07-2018 16:11:721 INFO  JavaScriptHelper:23 - JavaScriptHelper has been initialised
+11-07-2018 16:11:791 INFO  TestBase:144 - Taking ScreenShot
+11-07-2018 16:11:811 INFO  ExtentListener:60 - testScreen test passed...
+11-07-2018 16:11:666 INFO  TestBase:144 - Taking ScreenShot
+11-07-2018 16:11:18 INFO  TestBase:92 - driver is quiting
+11-07-2018 16:11:179 INFO  TestBase:94 - driver quit
+11-07-2018 16:11:192 INFO  ExtentListener:24 - TestScreenShot test finished...
+11-07-2018 23:11:92 INFO  ExtentListener:31 - TestA test started...
+11-07-2018 23:11:113 INFO  ExtentListener:54 - loginTest test started...
+11-07-2018 23:11:115 INFO  ExtentListener:60 - loginTest test passed...
+11-07-2018 23:11:132 INFO  ExtentListener:24 - TestA test finished...
+11-07-2018 23:11:134 INFO  ExtentListener:31 - TestB test started...
+11-07-2018 23:11:136 INFO  ExtentListener:54 - loginTestB test started...
+11-07-2018 23:11:146 ERROR ExtentListener:42 - loginTestB test failed...java.lang.AssertionError: expected [true] but found [false]
+11-07-2018 23:11:154 INFO  ExtentListener:24 - TestB test finished...
+11-07-2018 23:11:155 INFO  ExtentListener:31 - TestC test started...
+11-07-2018 23:11:157 INFO  ExtentListener:54 - loginTestC test started...
+11-07-2018 23:11:160 ERROR ExtentListener:42 - loginTestC test failed...java.lang.AssertionError: expected [true] but found [false]
+11-07-2018 23:11:165 INFO  ExtentListener:24 - TestC test finished...
+11-07-2018 23:11:166 INFO  ExtentListener:31 - TestScreenShot test started...
+11-07-2018 23:11:167 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-07-2018 23:11:168 INFO  PropertyReader:25 - Property file loaded
+11-07-2018 23:11:760 INFO  TestBase:118 - Browser is being initialized196732636
+11-07-2018 23:11:764 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-07-2018 23:11:772 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-07-2018 23:11:776 INFO  WaitHelper:159 - page is loaded
+11-07-2018 23:11:991 INFO  ExtentListener:54 - testScreen test started...
+11-07-2018 23:11:169 INFO  JavaScriptHelper:21 - initialising JavaScriptHelper
+11-07-2018 23:11:170 INFO  JavaScriptHelper:23 - JavaScriptHelper has been initialised
+11-07-2018 23:11:310 INFO  TestBase:142 - Taking ScreenShot
+11-07-2018 23:11:326 INFO  ExtentListener:60 - testScreen test passed...
+11-07-2018 23:11:200 INFO  TestBase:142 - Taking ScreenShot
+11-07-2018 23:11:588 INFO  TestBase:90 - driver is quiting
+11-07-2018 23:11:736 INFO  TestBase:92 - driver quit
+11-07-2018 23:11:750 INFO  ExtentListener:24 - TestScreenShot test finished...
+11-07-2018 23:11:371 INFO  ExtentListener:31 - TestA test started...
+11-07-2018 23:11:390 INFO  ExtentListener:54 - loginTest test started...
+11-07-2018 23:11:392 INFO  ExtentListener:60 - loginTest test passed...
+11-07-2018 23:11:405 INFO  ExtentListener:24 - TestA test finished...
+11-07-2018 23:11:407 INFO  ExtentListener:31 - TestB test started...
+11-07-2018 23:11:409 INFO  ExtentListener:54 - loginTestB test started...
+11-07-2018 23:11:416 ERROR ExtentListener:42 - loginTestB test failed...java.lang.AssertionError: expected [true] but found [false]
+11-07-2018 23:11:426 INFO  ExtentListener:24 - TestB test finished...
+11-07-2018 23:11:428 INFO  ExtentListener:31 - TestC test started...
+11-07-2018 23:11:430 INFO  ExtentListener:54 - loginTestC test started...
+11-07-2018 23:11:432 INFO  ExtentListener:60 - loginTestC test passed...
+11-07-2018 23:11:438 INFO  ExtentListener:24 - TestC test finished...
+11-07-2018 23:11:440 INFO  ExtentListener:31 - TestScreenShot test started...
+11-07-2018 23:11:441 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-07-2018 23:11:442 INFO  PropertyReader:25 - Property file loaded
+11-07-2018 23:11:460 INFO  TestBase:118 - Browser is being initialized1305935114
+11-07-2018 23:11:466 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-07-2018 23:11:479 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-07-2018 23:11:487 INFO  WaitHelper:159 - page is loaded
+11-07-2018 23:11:688 INFO  ExtentListener:54 - testScreen test started...
+11-07-2018 23:11:677 INFO  TestBase:142 - Taking ScreenShot
+11-07-2018 23:11:689 INFO  ExtentListener:60 - testScreen test passed...
+11-07-2018 23:11:122 INFO  TestBase:142 - Taking ScreenShot
+11-07-2018 23:11:461 INFO  TestBase:90 - driver is quiting
+11-07-2018 23:11:593 INFO  TestBase:92 - driver quit
+11-07-2018 23:11:606 INFO  ExtentListener:24 - TestScreenShot test finished...
+11-07-2018 23:11:968 INFO  ExtentListener:31 - TestA test started...
+11-07-2018 23:11:998 INFO  ExtentListener:54 - loginTest test started...
+11-07-2018 23:11:01 INFO  ExtentListener:60 - loginTest test passed...
+11-07-2018 23:11:08 INFO  ExtentListener:54 - loginTest test started...
+11-07-2018 23:11:10 INFO  ExtentListener:60 - loginTest test passed...
+11-07-2018 23:11:11 INFO  ExtentListener:54 - loginTest test started...
+11-07-2018 23:11:13 INFO  ExtentListener:60 - loginTest test passed...
+11-07-2018 23:11:15 INFO  ExtentListener:54 - loginTest test started...
+11-07-2018 23:11:19 INFO  ExtentListener:60 - loginTest test passed...
+11-07-2018 23:11:42 INFO  ExtentListener:24 - TestA test finished...
+11-07-2018 23:11:45 INFO  ExtentListener:31 - TestB test started...
+11-07-2018 23:11:47 INFO  ExtentListener:54 - loginTestB test started...
+11-07-2018 23:11:55 ERROR ExtentListener:42 - loginTestB test failed...java.lang.AssertionError: expected [true] but found [false]
+11-07-2018 23:11:67 INFO  ExtentListener:24 - TestB test finished...
+11-07-2018 23:11:69 INFO  ExtentListener:31 - TestC test started...
+11-07-2018 23:11:71 INFO  ExtentListener:54 - loginTestC test started...
+11-07-2018 23:11:77 INFO  ExtentListener:60 - loginTestC test passed...
+11-07-2018 23:11:82 INFO  ExtentListener:24 - TestC test finished...
+11-07-2018 23:11:84 INFO  ExtentListener:31 - TestScreenShot test started...
+11-07-2018 23:11:86 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-07-2018 23:11:87 INFO  PropertyReader:25 - Property file loaded
+11-07-2018 23:11:36 INFO  TestBase:118 - Browser is being initialized1564698139
+11-07-2018 23:11:39 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-07-2018 23:11:49 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-07-2018 23:11:55 INFO  WaitHelper:159 - page is loaded
+11-07-2018 23:11:246 INFO  ExtentListener:54 - testScreen test started...
+11-07-2018 23:11:411 INFO  TestBase:142 - Taking ScreenShot
+11-07-2018 23:11:423 INFO  ExtentListener:60 - testScreen test passed...
+11-07-2018 23:11:847 INFO  TestBase:142 - Taking ScreenShot
+11-07-2018 23:11:190 INFO  TestBase:90 - driver is quiting
+11-07-2018 23:11:342 INFO  TestBase:92 - driver quit
+11-07-2018 23:11:349 INFO  ExtentListener:24 - TestScreenShot test finished...
+11-07-2018 23:11:170 INFO  ExtentListener:31 - TestA test started...
+11-07-2018 23:11:188 INFO  ExtentListener:54 - loginTest test started...
+11-07-2018 23:11:190 INFO  ExtentListener:60 - loginTest test passed...
+11-07-2018 23:11:191 INFO  ExtentListener:54 - loginTest test started...
+11-07-2018 23:11:192 INFO  ExtentListener:60 - loginTest test passed...
+11-07-2018 23:11:192 INFO  ExtentListener:54 - loginTest test started...
+11-07-2018 23:11:193 INFO  ExtentListener:60 - loginTest test passed...
+11-07-2018 23:11:194 INFO  ExtentListener:54 - loginTest test started...
+11-07-2018 23:11:194 INFO  ExtentListener:60 - loginTest test passed...
+11-07-2018 23:11:204 INFO  ExtentListener:24 - TestA test finished...
+11-07-2018 23:11:206 INFO  ExtentListener:31 - TestB test started...
+11-07-2018 23:11:207 INFO  ExtentListener:54 - loginTestB test started...
+11-07-2018 23:11:210 ERROR ExtentListener:42 - loginTestB test failed...java.lang.AssertionError: expected [true] but found [false]
+11-07-2018 23:11:220 INFO  ExtentListener:24 - TestB test finished...
+11-07-2018 23:11:221 INFO  ExtentListener:31 - TestC test started...
+11-07-2018 23:11:221 INFO  ExtentListener:54 - loginTestC test started...
+11-07-2018 23:11:224 INFO  ExtentListener:60 - loginTestC test passed...
+11-07-2018 23:11:226 INFO  ExtentListener:24 - TestC test finished...
+11-07-2018 23:11:227 INFO  ExtentListener:31 - TestScreenShot test started...
+11-07-2018 23:11:228 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-07-2018 23:11:229 INFO  PropertyReader:25 - Property file loaded
+11-07-2018 23:11:69 INFO  TestBase:118 - Browser is being initialized2133655103
+11-07-2018 23:11:72 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-07-2018 23:11:83 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-07-2018 23:11:87 INFO  WaitHelper:159 - page is loaded
+11-07-2018 23:11:288 INFO  ExtentListener:54 - testScreen test started...
+11-07-2018 23:11:371 INFO  TestBase:142 - Taking ScreenShot
+11-07-2018 23:11:379 INFO  ExtentListener:60 - testScreen test passed...
+11-07-2018 23:11:789 INFO  TestBase:142 - Taking ScreenShot
+11-07-2018 23:11:54 INFO  TestBase:90 - driver is quiting
+11-07-2018 23:11:227 INFO  TestBase:92 - driver quit
+11-07-2018 23:11:232 INFO  ExtentListener:24 - TestScreenShot test finished...
+11-07-2018 23:11:656 INFO  ExtentListener:31 - TestA test started...
+11-07-2018 23:11:684 INFO  ExtentListener:54 - loginTest test started...
+11-07-2018 23:11:686 INFO  ExtentListener:60 - loginTest test passed...
+11-07-2018 23:11:687 INFO  ExtentListener:54 - loginTest test started...
+11-07-2018 23:11:690 INFO  ExtentListener:60 - loginTest test passed...
+11-07-2018 23:11:692 INFO  ExtentListener:54 - loginTest test started...
+11-07-2018 23:11:694 INFO  ExtentListener:60 - loginTest test passed...
+11-07-2018 23:11:695 INFO  ExtentListener:54 - loginTest test started...
+11-07-2018 23:11:697 INFO  ExtentListener:60 - loginTest test passed...
+11-07-2018 23:11:713 INFO  ExtentListener:24 - TestA test finished...
+11-07-2018 23:11:715 INFO  ExtentListener:31 - TestB test started...
+11-07-2018 23:11:716 INFO  ExtentListener:54 - loginTestB test started...
+11-07-2018 23:11:720 ERROR ExtentListener:42 - loginTestB test failed...java.lang.AssertionError: expected [true] but found [false]
+11-07-2018 23:11:732 INFO  ExtentListener:24 - TestB test finished...
+11-07-2018 23:11:732 INFO  ExtentListener:31 - TestC test started...
+11-07-2018 23:11:733 INFO  ExtentListener:54 - loginTestC test started...
+11-07-2018 23:11:736 INFO  ExtentListener:60 - loginTestC test passed...
+11-07-2018 23:11:739 INFO  ExtentListener:24 - TestC test finished...
+11-07-2018 23:11:740 INFO  ExtentListener:31 - TestScreenShot test started...
+11-07-2018 23:11:742 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-07-2018 23:11:743 INFO  PropertyReader:25 - Property file loaded
+11-07-2018 23:11:618 INFO  TestBase:118 - Browser is being initialized2133655103
+11-07-2018 23:11:621 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-07-2018 23:11:633 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-07-2018 23:11:640 INFO  WaitHelper:159 - page is loaded
+11-07-2018 23:11:823 INFO  ExtentListener:54 - testScreen test started...
+11-07-2018 23:11:947 INFO  TestBase:142 - Taking ScreenShot
+11-07-2018 23:11:956 INFO  ExtentListener:60 - testScreen test passed...
+11-07-2018 23:11:374 INFO  TestBase:142 - Taking ScreenShot
+11-07-2018 23:11:618 INFO  TestBase:90 - driver is quiting
+11-07-2018 23:11:768 INFO  TestBase:92 - driver quit
+11-07-2018 23:11:772 INFO  ExtentListener:24 - TestScreenShot test finished...
+11-08-2018 00:11:150 INFO  ExtentListener:31 - TestA test started...
+11-08-2018 00:11:174 INFO  ExtentListener:54 - loginTest test started...
+11-08-2018 00:11:176 INFO  ExtentListener:60 - loginTest test passed...
+11-08-2018 00:11:176 INFO  ExtentListener:54 - loginTest test started...
+11-08-2018 00:11:177 INFO  ExtentListener:60 - loginTest test passed...
+11-08-2018 00:11:178 INFO  ExtentListener:54 - loginTest test started...
+11-08-2018 00:11:179 INFO  ExtentListener:60 - loginTest test passed...
+11-08-2018 00:11:180 INFO  ExtentListener:54 - loginTest test started...
+11-08-2018 00:11:181 INFO  ExtentListener:60 - loginTest test passed...
+11-08-2018 00:11:194 INFO  ExtentListener:24 - TestA test finished...
+11-08-2018 00:11:195 INFO  ExtentListener:31 - TestB test started...
+11-08-2018 00:11:197 INFO  ExtentListener:54 - loginTestB test started...
+11-08-2018 00:11:199 ERROR ExtentListener:42 - loginTestB test failed...java.lang.AssertionError: expected [true] but found [false]
+11-08-2018 00:11:207 INFO  ExtentListener:24 - TestB test finished...
+11-08-2018 00:11:208 INFO  ExtentListener:31 - TestC test started...
+11-08-2018 00:11:209 INFO  ExtentListener:54 - loginTestC test started...
+11-08-2018 00:11:212 INFO  ExtentListener:60 - loginTestC test passed...
+11-08-2018 00:11:215 INFO  ExtentListener:24 - TestC test finished...
+11-08-2018 00:11:215 INFO  ExtentListener:31 - TestScreenShot test started...
+11-08-2018 00:11:217 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-08-2018 00:11:218 INFO  PropertyReader:25 - Property file loaded
+11-08-2018 00:11:760 INFO  TestBase:118 - Browser is being initialized1365767549
+11-08-2018 00:11:762 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-08-2018 00:11:773 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-08-2018 00:11:777 INFO  WaitHelper:159 - page is loaded
+11-08-2018 00:11:30 INFO  ExtentListener:54 - testScreen test started...
+11-08-2018 00:11:409 INFO  TestBase:142 - Taking ScreenShot
+11-08-2018 00:11:429 INFO  ExtentListener:60 - testScreen test passed...
+11-08-2018 00:11:852 INFO  TestBase:142 - Taking ScreenShot
+11-08-2018 00:11:134 INFO  TestBase:90 - driver is quiting
+11-08-2018 00:11:275 INFO  TestBase:92 - driver quit
+11-08-2018 00:11:284 INFO  ExtentListener:24 - TestScreenShot test finished...
+11-08-2018 00:11:982 INFO  ExtentListener:31 - TestA test started...
+11-08-2018 00:11:05 INFO  ExtentListener:54 - loginTest test started...
+11-08-2018 00:11:08 INFO  ExtentListener:60 - loginTest test passed...
+11-08-2018 00:11:09 INFO  ExtentListener:54 - loginTest test started...
+11-08-2018 00:11:09 INFO  ExtentListener:60 - loginTest test passed...
+11-08-2018 00:11:10 INFO  ExtentListener:54 - loginTest test started...
+11-08-2018 00:11:14 INFO  ExtentListener:60 - loginTest test passed...
+11-08-2018 00:11:15 INFO  ExtentListener:54 - loginTest test started...
+11-08-2018 00:11:15 INFO  ExtentListener:60 - loginTest test passed...
+11-08-2018 00:11:30 INFO  ExtentListener:24 - TestA test finished...
+11-08-2018 00:11:31 INFO  ExtentListener:31 - TestB test started...
+11-08-2018 00:11:32 INFO  ExtentListener:54 - loginTestB test started...
+11-08-2018 00:11:35 INFO  ExtentListener:60 - loginTestB test passed...
+11-08-2018 00:11:38 INFO  ExtentListener:24 - TestB test finished...
+11-08-2018 00:11:39 INFO  ExtentListener:31 - TestC test started...
+11-08-2018 00:11:40 INFO  ExtentListener:54 - loginTestC test started...
+11-08-2018 00:11:43 INFO  ExtentListener:60 - loginTestC test passed...
+11-08-2018 00:11:46 INFO  ExtentListener:24 - TestC test finished...
+11-08-2018 00:11:46 INFO  ExtentListener:31 - TestScreenShot test started...
+11-08-2018 00:11:48 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-08-2018 00:11:49 INFO  PropertyReader:25 - Property file loaded
+11-08-2018 00:11:899 INFO  TestBase:118 - Browser is being initialized442125849
+11-08-2018 00:11:903 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-08-2018 00:11:915 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-08-2018 00:11:921 INFO  WaitHelper:159 - page is loaded
+11-08-2018 00:11:169 INFO  ExtentListener:54 - testScreen test started...
+11-08-2018 00:11:305 INFO  TestBase:142 - Taking ScreenShot
+11-08-2018 00:11:325 INFO  ExtentListener:60 - testScreen test passed...
+11-08-2018 00:11:742 INFO  TestBase:142 - Taking ScreenShot
+11-08-2018 00:11:04 INFO  TestBase:90 - driver is quiting
+11-08-2018 00:11:116 INFO  TestBase:92 - driver quit
+11-08-2018 00:11:125 INFO  ExtentListener:24 - TestScreenShot test finished...
+11-08-2018 00:11:587 INFO  ExtentListener:31 - TestA test started...
+11-08-2018 00:11:608 INFO  ExtentListener:54 - loginTest test started...
+11-08-2018 00:11:610 INFO  ExtentListener:60 - loginTest test passed...
+11-08-2018 00:11:611 INFO  ExtentListener:54 - loginTest test started...
+11-08-2018 00:11:612 INFO  ExtentListener:60 - loginTest test passed...
+11-08-2018 00:11:613 INFO  ExtentListener:54 - loginTest test started...
+11-08-2018 00:11:613 INFO  ExtentListener:60 - loginTest test passed...
+11-08-2018 00:11:614 INFO  ExtentListener:54 - loginTest test started...
+11-08-2018 00:11:615 INFO  ExtentListener:60 - loginTest test passed...
+11-08-2018 00:11:629 INFO  ExtentListener:24 - TestA test finished...
+11-08-2018 00:11:630 INFO  ExtentListener:31 - TestB test started...
+11-08-2018 00:11:632 INFO  ExtentListener:54 - loginTestB test started...
+11-08-2018 00:11:634 INFO  ExtentListener:60 - loginTestB test passed...
+11-08-2018 00:11:636 INFO  ExtentListener:24 - TestB test finished...
+11-08-2018 00:11:637 INFO  ExtentListener:31 - TestC test started...
+11-08-2018 00:11:639 INFO  ExtentListener:54 - loginTestC test started...
+11-08-2018 00:11:642 INFO  ExtentListener:60 - loginTestC test passed...
+11-08-2018 00:11:644 INFO  ExtentListener:24 - TestC test finished...
+11-08-2018 00:11:645 INFO  ExtentListener:31 - TestScreenShot test started...
+11-08-2018 00:11:646 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-08-2018 00:11:647 INFO  PropertyReader:25 - Property file loaded
+11-08-2018 00:11:90 INFO  TestBase:118 - Browser is being initialized442125849
+11-08-2018 00:11:94 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-08-2018 00:11:104 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-08-2018 00:11:110 INFO  WaitHelper:159 - page is loaded
+11-08-2018 00:11:286 INFO  ExtentListener:54 - testScreen test started...
+11-08-2018 00:11:451 INFO  TestBase:142 - Taking ScreenShot
+11-08-2018 00:11:473 INFO  ExtentListener:60 - testScreen test passed...
+11-08-2018 00:11:900 INFO  TestBase:142 - Taking ScreenShot
+11-08-2018 00:11:172 INFO  TestBase:90 - driver is quiting
+11-08-2018 00:11:324 INFO  TestBase:92 - driver quit
+11-08-2018 00:11:328 INFO  ExtentListener:24 - TestScreenShot test finished...
+11-14-2018 03:11:683 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-14-2018 03:11:688 INFO  PropertyReader:25 - Property file loaded
+11-14-2018 03:11:950 INFO  TestBase:118 - Browser is being initialized901205084
+11-14-2018 03:11:953 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-14-2018 03:11:963 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-14-2018 03:11:967 INFO  WaitHelper:159 - page is loaded
+11-14-2018 03:11:310 INFO  Homepage:34 - Homepage initializing...
+11-14-2018 03:11:760 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-14-2018 03:11:763 INFO  PropertyReader:25 - Property file loaded
+11-14-2018 03:11:906 INFO  TestBase:118 - Browser is being initialized901205084
+11-14-2018 03:11:909 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-14-2018 03:11:919 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-14-2018 03:11:923 INFO  WaitHelper:159 - page is loaded
+11-14-2018 03:11:169 INFO  TestBase:193 - launching https://www.dunkindonuts.com/en
+11-14-2018 03:11:51 INFO  Homepage:34 - Homepage initializing...
+11-14-2018 03:11:201 INFO  Homepage:39 - pagefactory for homepage loaded... Homepage initialized.
+11-14-2018 03:11:201 INFO  TestBase:182 - Capturing navigation screen
+11-14-2018 03:11:203 INFO  JavaScriptHelper:21 - initialising JavaScriptHelper
+11-14-2018 03:11:203 INFO  JavaScriptHelper:23 - JavaScriptHelper has been initialised
+11-14-2018 03:11:204 INFO  JavaScriptHelper:135 - zooming in by 40.0 percentage
+11-14-2018 03:11:427 INFO  TestBase:170 - Taking ScreenShot
+11-14-2018 03:11:445 INFO  Homepage:44 - Clicking on SignInLinkOnTop
+11-14-2018 03:11:355 INFO  TestBase:142 - Taking ScreenShot
+11-14-2018 03:11:896 INFO  TestBase:90 - driver is quiting
+11-14-2018 03:11:64 INFO  TestBase:92 - driver quit
+11-14-2018 03:11:938 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-14-2018 03:11:943 INFO  PropertyReader:25 - Property file loaded
+11-14-2018 03:11:758 INFO  TestBase:118 - Browser is being initialized901205084
+11-14-2018 03:11:760 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-14-2018 03:11:778 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-14-2018 03:11:784 INFO  WaitHelper:159 - page is loaded
+11-14-2018 03:11:112 INFO  TestBase:193 - launching https://www.dunkindonuts.com/en
+11-14-2018 03:11:766 INFO  Homepage:34 - Homepage initializing...
+11-14-2018 03:11:919 INFO  Homepage:39 - pagefactory for homepage loaded... Homepage initialized.
+11-14-2018 03:11:920 INFO  TestBase:182 - Capturing navigation screen
+11-14-2018 03:11:922 INFO  JavaScriptHelper:21 - initialising JavaScriptHelper
+11-14-2018 03:11:923 INFO  JavaScriptHelper:23 - JavaScriptHelper has been initialised
+11-14-2018 03:11:923 INFO  JavaScriptHelper:135 - zooming in by 40.0 percentage
+11-14-2018 03:11:992 INFO  TestBase:170 - Taking ScreenShot
+11-14-2018 03:11:09 INFO  Homepage:44 - Clicking on SignInLinkOnTop
+11-14-2018 03:11:926 INFO  TestBase:142 - Taking ScreenShot
+11-14-2018 03:11:286 INFO  TestBase:90 - driver is quiting
+11-14-2018 03:11:454 INFO  TestBase:92 - driver quit
+11-14-2018 03:11:29 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-14-2018 03:11:33 INFO  PropertyReader:25 - Property file loaded
+11-14-2018 03:11:26 INFO  TestBase:118 - Browser is being initialized901205084
+11-14-2018 03:11:28 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-14-2018 03:11:38 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-14-2018 03:11:43 INFO  WaitHelper:159 - page is loaded
+11-14-2018 03:11:292 INFO  TestBase:193 - launching https://www.dunkindonuts.com/en
+11-14-2018 03:11:267 INFO  Homepage:34 - Homepage initializing...
+11-14-2018 03:11:372 INFO  Homepage:39 - pagefactory for homepage loaded... Homepage initialized.
+11-14-2018 03:11:372 INFO  TestBase:182 - Capturing navigation screen
+11-14-2018 03:11:924 INFO  TestBase:170 - Taking ScreenShot
+11-14-2018 03:11:936 INFO  Homepage:44 - Clicking on SignInLinkOnTop
+11-14-2018 03:11:107 INFO  Homepage:47 - Clicked
+11-14-2018 03:11:984 INFO  TestBase:142 - Taking ScreenShot
+11-14-2018 03:11:275 INFO  TestBase:90 - driver is quiting
+11-14-2018 03:11:456 INFO  TestBase:92 - driver quit
+11-14-2018 03:11:93 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-14-2018 03:11:97 INFO  PropertyReader:25 - Property file loaded
+11-14-2018 03:11:14 INFO  TestBase:118 - Browser is being initialized901205084
+11-14-2018 03:11:18 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-14-2018 03:11:32 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-14-2018 03:11:38 INFO  WaitHelper:159 - page is loaded
+11-14-2018 03:11:302 INFO  TestBase:193 - launching https://www.dunkindonuts.com/en
+11-14-2018 03:11:713 INFO  Homepage:34 - Homepage initializing...
+11-14-2018 03:11:857 INFO  Homepage:39 - pagefactory for homepage loaded... Homepage initialized.
+11-14-2018 03:11:857 INFO  TestBase:182 - Capturing navigation screen
+11-14-2018 03:11:441 INFO  TestBase:170 - Taking ScreenShot
+11-14-2018 03:11:460 INFO  Homepage:44 - Clicking on SignInLinkOnTop
+11-14-2018 03:11:124 INFO  Homepage:47 - Clicked
+11-14-2018 03:11:477 INFO  TestBase:142 - Taking ScreenShot
+11-14-2018 03:11:808 INFO  TestBase:90 - driver is quiting
+11-14-2018 03:11:06 INFO  TestBase:92 - driver quit
+11-14-2018 03:11:78 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-14-2018 03:11:83 INFO  PropertyReader:25 - Property file loaded
+11-14-2018 03:11:272 INFO  TestBase:118 - Browser is being initialized901205084
+11-14-2018 03:11:275 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-14-2018 03:11:285 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-14-2018 03:11:290 INFO  WaitHelper:159 - page is loaded
+11-14-2018 03:11:628 INFO  TestBase:193 - launching https://www.dunkindonuts.com/en
+11-14-2018 03:11:794 INFO  Homepage:34 - Homepage initializing...
+11-14-2018 03:11:975 INFO  Homepage:39 - pagefactory for homepage loaded... Homepage initialized.
+11-14-2018 03:11:976 INFO  TestBase:182 - Capturing navigation screen
+11-14-2018 03:11:658 INFO  TestBase:170 - Taking ScreenShot
+11-14-2018 03:11:675 INFO  Homepage:44 - Clicking on SignInLinkOnTop
+11-14-2018 03:11:651 INFO  Homepage:48 - Clicked
+11-14-2018 03:11:653 INFO  SignInPage:38 - SignInPage initializing...
+11-14-2018 03:11:783 INFO  SignInPage:43 - pagefactory for SignInPage loaded... SignInPage initialized.
+11-14-2018 03:11:783 INFO  TestBase:182 - Capturing navigation screen
+11-14-2018 03:11:23 INFO  TestBase:170 - Taking ScreenShot
+11-14-2018 03:11:158 INFO  TestBase:142 - Taking ScreenShot
+11-14-2018 03:11:910 INFO  TestBase:90 - driver is quiting
+11-14-2018 03:11:115 INFO  TestBase:92 - driver quit
+11-14-2018 03:11:320 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-14-2018 03:11:325 INFO  PropertyReader:25 - Property file loaded
+11-14-2018 03:11:135 INFO  TestBase:118 - Browser is being initialized901205084
+11-14-2018 03:11:137 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-14-2018 03:11:145 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-14-2018 03:11:150 INFO  WaitHelper:159 - page is loaded
+11-14-2018 03:11:404 INFO  TestBase:193 - launching https://www.dunkindonuts.com/en
+11-14-2018 03:11:987 INFO  Homepage:34 - Homepage initializing...
+11-14-2018 03:11:143 INFO  Homepage:39 - pagefactory for homepage loaded... Homepage initialized.
+11-14-2018 03:11:143 INFO  TestBase:182 - Capturing navigation screen
+11-14-2018 03:11:819 INFO  TestBase:170 - Taking ScreenShot
+11-14-2018 03:11:836 INFO  Homepage:44 - Clicking on SignInLinkOnTop
+11-14-2018 03:11:843 INFO  Homepage:48 - Clicked
+11-14-2018 03:11:844 INFO  SignInPage:39 - SignInPage initializing...
+11-14-2018 03:11:912 INFO  SignInPage:44 - pagefactory for SignInPage loaded... SignInPage initialized.
+11-14-2018 03:11:913 INFO  TestBase:182 - Capturing navigation screen
+11-14-2018 03:11:903 INFO  TestBase:170 - Taking ScreenShot
+11-14-2018 03:11:958 INFO  VerificationHelper:31 - element is displayed : ACCOUNT SIGN IN
+11-14-2018 03:11:960 INFO  AssertionHelper:28 - making test passed
+11-14-2018 03:11:866 INFO  TestBase:142 - Taking ScreenShot
+11-14-2018 03:11:187 INFO  TestBase:90 - driver is quiting
+11-14-2018 03:11:376 INFO  TestBase:92 - driver quit
+11-14-2018 04:11:470 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-14-2018 04:11:473 INFO  PropertyReader:25 - Property file loaded
+11-14-2018 04:11:280 INFO  TestBase:118 - Browser is being initialized901205084
+11-14-2018 04:11:283 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-14-2018 04:11:292 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-14-2018 04:11:296 INFO  WaitHelper:159 - page is loaded
+11-14-2018 04:11:620 INFO  TestBase:195 - launching https://www.dunkindonuts.com/en
+11-14-2018 04:11:310 INFO  Homepage:34 - Homepage initializing...
+11-14-2018 04:11:391 INFO  Homepage:39 - pagefactory for homepage loaded... Homepage initialized.
+11-14-2018 04:11:392 INFO  TestBase:184 - Capturing screen : Homepage
+11-14-2018 04:11:446 INFO  TestBase:172 - Taking ScreenShot : Homepage_00-14-2018_04:00:23.png
+11-14-2018 04:11:461 INFO  Homepage:44 - Clicking on SignInLinkOnTop
+11-14-2018 04:11:780 INFO  Homepage:48 - Clicked
+11-14-2018 04:11:783 INFO  SignInPage:39 - SignInPage initializing...
+11-14-2018 04:11:869 INFO  SignInPage:44 - pagefactory for SignInPage loaded... SignInPage initialized.
+11-14-2018 04:11:869 INFO  TestBase:184 - Capturing screen : SignInPage
+11-14-2018 04:11:847 INFO  TestBase:172 - Taking ScreenShot : SignInPage_00-14-2018_04:00:27.png
+11-14-2018 04:11:896 INFO  VerificationHelper:31 - element is displayed : ACCOUNT SIGN IN
+11-14-2018 04:11:898 INFO  AssertionHelper:28 - making test passed
+11-14-2018 04:11:251 INFO  TestBase:90 - driver is quiting
+11-14-2018 04:11:452 INFO  TestBase:92 - driver quit
+11-14-2018 10:11:223 INFO  ExcelHelper:34 - Trying to read excel sheet
+11-14-2018 10:11:230 INFO  ExcelHelper:88 - Error reading excel file...
+11-14-2018 10:11:230 INFO  ExcelHelper:89 - Details: null
+11-14-2018 10:11:494 INFO  ExcelHelper:34 - Trying to read excel sheet
+11-14-2018 10:11:498 INFO  ExcelHelper:89 - Error reading excel file...
+11-14-2018 10:11:499 INFO  ExcelHelper:90 - Details: null
+11-14-2018 10:11:544 INFO  ExcelHelper:34 - Trying to read excel sheet
+11-14-2018 10:11:550 INFO  ExcelHelper:35 - /Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/excelfiles/workbook.xlsx
+11-14-2018 10:11:550 INFO  ExcelHelper:92 - Error reading excel file...
+11-14-2018 10:11:551 INFO  ExcelHelper:93 - Details: null
+11-14-2018 10:11:624 INFO  ExcelHelper:34 - Trying to read excel sheet
+11-14-2018 10:11:629 INFO  ExcelHelper:35 - /Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/excelfiles/workbook.xlsx
+11-14-2018 10:11:630 INFO  ExcelHelper:37 - put into fileinputstream
+11-14-2018 10:11:386 INFO  ExcelHelper:39 - got the workbook
+11-14-2018 10:11:389 INFO  ExcelHelper:41 - got the sheet
+11-14-2018 10:11:394 INFO  ExcelHelper:64 - Added: cell number [0][0]->shadman
+11-14-2018 10:11:394 INFO  ExcelHelper:64 - Added: cell number [0][1]->shadmanPass
+11-14-2018 10:11:395 INFO  ExcelHelper:64 - Added: cell number [1][0]->saleh
+11-14-2018 10:11:395 INFO  ExcelHelper:64 - Added: cell number [1][1]->Pass
+11-14-2018 10:11:396 INFO  ExcelHelper:64 - Added: cell number [2][0]->shahriyar
+11-14-2018 10:11:396 INFO  ExcelHelper:64 - Added: cell number [2][1]->shahriyarPass
+11-14-2018 11:11:665 INFO  ExcelHelper:34 - Trying to read excel sheet
+11-14-2018 11:11:670 INFO  ExcelHelper:35 - /Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/excelfiles/workbook.xlsx
+11-14-2018 11:11:670 INFO  ExcelHelper:37 - successfully converted xlxs to fileinputstream
+11-14-2018 11:11:414 INFO  ExcelHelper:39 - got the workbook
+11-14-2018 11:11:417 INFO  ExcelHelper:41 - got the sheet : login
+11-14-2018 11:11:417 INFO  ExcelHelper:43 - total number of row : 3
+11-14-2018 11:11:417 INFO  ExcelHelper:45 - total number of collumn : 2
+11-14-2018 11:11:417 INFO  ExcelHelper:69 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:417 INFO  ExcelHelper:69 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:422 INFO  ExcelHelper:79 - Error reading excel file...
+11-14-2018 11:11:423 INFO  ExcelHelper:80 - Details: null
+11-14-2018 11:11:395 INFO  ExcelHelper:34 - Trying to read excel sheet
+11-14-2018 11:11:401 INFO  ExcelHelper:35 - /Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/excelfiles/workbook.xlsx
+11-14-2018 11:11:401 INFO  ExcelHelper:37 - successfully converted xlxs to fileinputstream
+11-14-2018 11:11:61 INFO  ExcelHelper:39 - got the workbook
+11-14-2018 11:11:64 INFO  ExcelHelper:41 - got the sheet : login
+11-14-2018 11:11:64 INFO  ExcelHelper:43 - total number of row : 3
+11-14-2018 11:11:65 INFO  ExcelHelper:45 - total number of collumn : 2
+11-14-2018 11:11:65 INFO  ExcelHelper:69 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:65 INFO  ExcelHelper:69 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:70 INFO  ExcelHelper:79 - Error reading excel file...
+11-14-2018 11:11:71 INFO  ExcelHelper:80 - Details: null
+11-14-2018 11:11:269 INFO  ExcelHelper:34 - Trying to read excel sheet
+11-14-2018 11:11:273 INFO  ExcelHelper:35 - /Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/excelfiles/workbook.xlsx
+11-14-2018 11:11:273 INFO  ExcelHelper:37 - successfully converted xlxs to fileinputstream
+11-14-2018 11:11:02 INFO  ExcelHelper:39 - got the workbook
+11-14-2018 11:11:04 INFO  ExcelHelper:41 - got the sheet : login
+11-14-2018 11:11:05 INFO  ExcelHelper:43 - total number of row : 3
+11-14-2018 11:11:05 INFO  ExcelHelper:45 - total number of collumn : 2
+11-14-2018 11:11:05 INFO  ExcelHelper:69 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:06 INFO  ExcelHelper:69 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:10 INFO  ExcelHelper:65 - Added: cell number [0][0]->shadman
+11-14-2018 11:11:11 INFO  ExcelHelper:65 - Added: cell number [0][1]->shadmanPass
+11-14-2018 11:11:12 INFO  ExcelHelper:65 - Added: cell number [1][0]->saleh
+11-14-2018 11:11:12 INFO  ExcelHelper:65 - Added: cell number [1][1]->Pass
+11-14-2018 11:11:12 INFO  ExcelHelper:65 - Added: cell number [2][0]->shahriyar
+11-14-2018 11:11:12 INFO  ExcelHelper:65 - Added: cell number [2][1]->shahriyarPass
+11-14-2018 11:11:291 INFO  ExcelHelper:34 - Trying to read excel sheet
+11-14-2018 11:11:295 INFO  ExcelHelper:35 - /Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/excelfiles/workbook.xlsx
+11-14-2018 11:11:296 INFO  ExcelHelper:37 - successfully converted xlxs to fileinputstream
+11-14-2018 11:11:18 INFO  ExcelHelper:39 - got the workbook
+11-14-2018 11:11:20 INFO  ExcelHelper:41 - got the sheet : login
+11-14-2018 11:11:20 INFO  ExcelHelper:43 - total number of row : 3
+11-14-2018 11:11:21 INFO  ExcelHelper:45 - total number of collumn : 2
+11-14-2018 11:11:21 INFO  ExcelHelper:69 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:21 INFO  ExcelHelper:69 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:26 INFO  ExcelHelper:65 - Added: cell number [0][0]->shadman
+11-14-2018 11:11:26 INFO  ExcelHelper:65 - Added: cell number [0][1]->shadmanPass
+11-14-2018 11:11:27 INFO  ExcelHelper:65 - Added: cell number [1][0]->saleh
+11-14-2018 11:11:27 INFO  ExcelHelper:65 - Added: cell number [1][1]->Pass
+11-14-2018 11:11:27 INFO  ExcelHelper:65 - Added: cell number [2][0]->shahriyar
+11-14-2018 11:11:28 INFO  ExcelHelper:65 - Added: cell number [2][1]->shahriyarPass
+11-14-2018 11:11:123 INFO  ExcelHelper:35 - Trying to read excel sheet
+11-14-2018 11:11:128 INFO  ExcelHelper:36 - /Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/excelfiles/workbook.xlsx
+11-14-2018 11:11:128 INFO  ExcelHelper:38 - successfully converted xlxs to fileinputstream
+11-14-2018 11:11:855 INFO  ExcelHelper:40 - got the workbook
+11-14-2018 11:11:858 INFO  ExcelHelper:42 - got the sheet : login
+11-14-2018 11:11:858 INFO  ExcelHelper:44 - total number of row : 3
+11-14-2018 11:11:858 INFO  ExcelHelper:46 - total number of collumn : 2
+11-14-2018 11:11:858 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:859 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:863 INFO  ExcelHelper:66 - Added: cell number [0][0]->shadman
+11-14-2018 11:11:864 INFO  ExcelHelper:66 - Added: cell number [0][1]->shadmanPass
+11-14-2018 11:11:864 INFO  ExcelHelper:66 - Added: cell number [1][0]->saleh
+11-14-2018 11:11:865 INFO  ExcelHelper:66 - Added: cell number [1][1]->Pass
+11-14-2018 11:11:865 INFO  ExcelHelper:66 - Added: cell number [2][0]->shahriyar
+11-14-2018 11:11:865 INFO  ExcelHelper:66 - Added: cell number [2][1]->shahriyarPass
+11-14-2018 11:11:731 INFO  ExcelHelper:35 - Trying to read excel sheet
+11-14-2018 11:11:735 INFO  ExcelHelper:36 - /Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/excelfiles/workbook.xlsx
+11-14-2018 11:11:736 INFO  ExcelHelper:38 - successfully converted xlxs to fileinputstream
+11-14-2018 11:11:387 INFO  ExcelHelper:40 - got the workbook
+11-14-2018 11:11:390 INFO  ExcelHelper:42 - got the sheet : login
+11-14-2018 11:11:390 INFO  ExcelHelper:44 - total number of row : 3
+11-14-2018 11:11:391 INFO  ExcelHelper:46 - total number of collumn : 2
+11-14-2018 11:11:391 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:391 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:396 INFO  ExcelHelper:66 - Added: cell number [0][0]->shadman
+11-14-2018 11:11:396 INFO  ExcelHelper:66 - Added: cell number [0][1]->shadmanPass
+11-14-2018 11:11:397 INFO  ExcelHelper:66 - Added: cell number [1][0]->saleh
+11-14-2018 11:11:397 INFO  ExcelHelper:66 - Added: cell number [1][1]->Pass
+11-14-2018 11:11:398 INFO  ExcelHelper:66 - Added: cell number [2][0]->shahriyar
+11-14-2018 11:11:398 INFO  ExcelHelper:66 - Added: cell number [2][1]->shahriyarPass
+11-14-2018 11:11:641 INFO  ExcelHelper:35 - Trying to read excel sheet
+11-14-2018 11:11:645 INFO  ExcelHelper:36 - /Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/excelfiles/workbook.xlsx
+11-14-2018 11:11:647 INFO  ExcelHelper:38 - successfully converted xlxs to fileinputstream
+11-14-2018 11:11:282 INFO  ExcelHelper:40 - got the workbook
+11-14-2018 11:11:285 INFO  ExcelHelper:42 - got the sheet : login
+11-14-2018 11:11:286 INFO  ExcelHelper:44 - total number of row : 3
+11-14-2018 11:11:286 INFO  ExcelHelper:46 - total number of collumn : 2
+11-14-2018 11:11:286 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:286 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:291 INFO  ExcelHelper:66 - Added: cell number [0][0]->shadman
+11-14-2018 11:11:291 INFO  ExcelHelper:66 - Added: cell number [0][1]->shadmanPass
+11-14-2018 11:11:291 INFO  ExcelHelper:66 - Added: cell number [1][0]->saleh
+11-14-2018 11:11:292 INFO  ExcelHelper:66 - Added: cell number [1][1]->Pass
+11-14-2018 11:11:292 INFO  ExcelHelper:66 - Added: cell number [2][0]->shahriyar
+11-14-2018 11:11:292 INFO  ExcelHelper:66 - Added: cell number [2][1]->shahriyarPass
+11-14-2018 11:11:487 INFO  ExcelHelper:35 - Trying to read excel sheet
+11-14-2018 11:11:491 INFO  ExcelHelper:36 - /Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/excelfiles/workbook.xlsx
+11-14-2018 11:11:497 INFO  ExcelHelper:38 - successfully converted xlxs to fileinputstream
+11-14-2018 11:11:155 INFO  ExcelHelper:40 - got the workbook
+11-14-2018 11:11:159 INFO  ExcelHelper:42 - got the sheet : login
+11-14-2018 11:11:160 INFO  ExcelHelper:44 - total number of row : 3
+11-14-2018 11:11:160 INFO  ExcelHelper:46 - total number of collumn : 2
+11-14-2018 11:11:160 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:160 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:165 INFO  ExcelHelper:66 - Added: cell number [0][0]->shadman
+11-14-2018 11:11:165 INFO  ExcelHelper:66 - Added: cell number [0][1]->shadmanPass
+11-14-2018 11:11:166 INFO  ExcelHelper:66 - Added: cell number [1][0]->saleh
+11-14-2018 11:11:166 INFO  ExcelHelper:66 - Added: cell number [1][1]->Pass
+11-14-2018 11:11:166 INFO  ExcelHelper:66 - Added: cell number [2][0]->shahriyar
+11-14-2018 11:11:167 INFO  ExcelHelper:66 - Added: cell number [2][1]->shahriyarPass
+11-14-2018 11:11:902 INFO  ExcelHelper:35 - Trying to read excel sheet
+11-14-2018 11:11:908 INFO  ExcelHelper:36 - /Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/excelfiles/workbook.xlsx
+11-14-2018 11:11:908 INFO  ExcelHelper:38 - successfully converted xlxs to fileinputstream
+11-14-2018 11:11:555 INFO  ExcelHelper:40 - got the workbook
+11-14-2018 11:11:558 INFO  ExcelHelper:42 - got the sheet : login
+11-14-2018 11:11:559 INFO  ExcelHelper:44 - total number of row : 3
+11-14-2018 11:11:559 INFO  ExcelHelper:46 - total number of collumn : 2
+11-14-2018 11:11:559 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:560 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:565 INFO  ExcelHelper:66 - Added: cell number [0][0]->shadman
+11-14-2018 11:11:565 INFO  ExcelHelper:66 - Added: cell number [0][1]->shadmanPass
+11-14-2018 11:11:565 INFO  ExcelHelper:66 - Added: cell number [1][0]->saleh
+11-14-2018 11:11:566 INFO  ExcelHelper:66 - Added: cell number [1][1]->Pass
+11-14-2018 11:11:566 INFO  ExcelHelper:66 - Added: cell number [2][0]->shahriyar
+11-14-2018 11:11:567 INFO  ExcelHelper:66 - Added: cell number [2][1]->shahriyarPass
+11-14-2018 11:11:914 INFO  ExcelHelper:35 - Trying to read excel sheet
+11-14-2018 11:11:918 INFO  ExcelHelper:36 - /Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/excelfiles/workbook.xlsx
+11-14-2018 11:11:919 INFO  ExcelHelper:38 - successfully converted xlxs to fileinputstream
+11-14-2018 11:11:599 INFO  ExcelHelper:40 - got the workbook
+11-14-2018 11:11:602 INFO  ExcelHelper:42 - got the sheet : login
+11-14-2018 11:11:602 INFO  ExcelHelper:44 - total number of row : 3
+11-14-2018 11:11:602 INFO  ExcelHelper:46 - total number of collumn : 2
+11-14-2018 11:11:602 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:603 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:607 INFO  ExcelHelper:66 - Added: cell number [0][0]->shadman
+11-14-2018 11:11:608 INFO  ExcelHelper:66 - Added: cell number [0][1]->shadmanPass
+11-14-2018 11:11:608 INFO  ExcelHelper:66 - Added: cell number [1][0]->saleh
+11-14-2018 11:11:609 INFO  ExcelHelper:66 - Added: cell number [1][1]->Pass
+11-14-2018 11:11:609 INFO  ExcelHelper:66 - Added: cell number [2][0]->shahriyar
+11-14-2018 11:11:609 INFO  ExcelHelper:66 - Added: cell number [2][1]->shahriyarPass
+11-14-2018 11:11:510 INFO  ExcelHelper:35 - Trying to read excel sheet
+11-14-2018 11:11:516 INFO  ExcelHelper:36 - /Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/excelfiles/workbook.xlsx
+11-14-2018 11:11:517 INFO  ExcelHelper:38 - successfully converted xlxs to fileinputstream
+11-14-2018 11:11:161 INFO  ExcelHelper:40 - got the workbook
+11-14-2018 11:11:164 INFO  ExcelHelper:42 - got the sheet : login
+11-14-2018 11:11:164 INFO  ExcelHelper:44 - total number of row : 3
+11-14-2018 11:11:165 INFO  ExcelHelper:46 - total number of collumn : 2
+11-14-2018 11:11:165 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:165 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:170 INFO  ExcelHelper:66 - Added: cell number [0][0]->shadman
+11-14-2018 11:11:171 INFO  ExcelHelper:66 - Added: cell number [0][1]->shadmanPass
+11-14-2018 11:11:171 INFO  ExcelHelper:66 - Added: cell number [1][0]->saleh
+11-14-2018 11:11:172 INFO  ExcelHelper:66 - Added: cell number [1][1]->Pass
+11-14-2018 11:11:172 INFO  ExcelHelper:66 - Added: cell number [2][0]->shahriyar
+11-14-2018 11:11:173 INFO  ExcelHelper:66 - Added: cell number [2][1]->shahriyarPass
+11-14-2018 11:11:116 INFO  ExcelHelper:35 - Trying to read excel sheet
+11-14-2018 11:11:123 INFO  ExcelHelper:36 - /Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/excelfiles/workbook.xlsx
+11-14-2018 11:11:123 INFO  ExcelHelper:38 - successfully converted xlxs to fileinputstream
+11-14-2018 11:11:832 INFO  ExcelHelper:40 - got the workbook
+11-14-2018 11:11:835 INFO  ExcelHelper:42 - got the sheet : login
+11-14-2018 11:11:835 INFO  ExcelHelper:44 - total number of row : 3
+11-14-2018 11:11:835 INFO  ExcelHelper:46 - total number of collumn : 2
+11-14-2018 11:11:836 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:836 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:840 INFO  ExcelHelper:66 - Added: cell number [0][0]->shadman
+11-14-2018 11:11:841 INFO  ExcelHelper:66 - Added: cell number [0][1]->shadmanPass
+11-14-2018 11:11:841 INFO  ExcelHelper:66 - Added: cell number [1][0]->saleh
+11-14-2018 11:11:841 INFO  ExcelHelper:66 - Added: cell number [1][1]->Pass
+11-14-2018 11:11:842 INFO  ExcelHelper:66 - Added: cell number [2][0]->shahriyar
+11-14-2018 11:11:842 INFO  ExcelHelper:66 - Added: cell number [2][1]->shahriyarPass
+11-14-2018 11:11:241 INFO  ExcelHelper:35 - Trying to read excel sheet
+11-14-2018 11:11:249 INFO  ExcelHelper:36 - /Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/excelfiles/workbook.xlsx
+11-14-2018 11:11:249 INFO  ExcelHelper:38 - successfully converted xlxs to fileinputstream
+11-14-2018 11:11:19 INFO  ExcelHelper:40 - got the workbook
+11-14-2018 11:11:21 INFO  ExcelHelper:42 - got the sheet : login
+11-14-2018 11:11:21 INFO  ExcelHelper:44 - total number of row : 3
+11-14-2018 11:11:22 INFO  ExcelHelper:46 - total number of collumn : 2
+11-14-2018 11:11:22 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:22 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 11:11:27 INFO  ExcelHelper:66 - Added: cell number [0][0]->shadman
+11-14-2018 11:11:28 INFO  ExcelHelper:66 - Added: cell number [0][1]->shadmanPass
+11-14-2018 11:11:28 INFO  ExcelHelper:66 - Added: cell number [1][0]->saleh
+11-14-2018 11:11:28 INFO  ExcelHelper:66 - Added: cell number [1][1]->Pass
+11-14-2018 11:11:29 INFO  ExcelHelper:66 - Added: cell number [2][0]->shahriyar
+11-14-2018 11:11:29 INFO  ExcelHelper:66 - Added: cell number [2][1]->shahriyarPass
+11-14-2018 12:11:472 INFO  ExcelHelper:35 - Trying to read excel sheet
+11-14-2018 12:11:476 INFO  ExcelHelper:36 - /Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/excelfiles/workbook.xlsx
+11-14-2018 12:11:477 INFO  ExcelHelper:38 - successfully converted xlxs to fileinputstream
+11-14-2018 12:11:270 INFO  ExcelHelper:40 - got the workbook
+11-14-2018 12:11:273 INFO  ExcelHelper:42 - got the sheet : login
+11-14-2018 12:11:273 INFO  ExcelHelper:44 - total number of row : 3
+11-14-2018 12:11:273 INFO  ExcelHelper:46 - total number of collumn : 2
+11-14-2018 12:11:274 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 12:11:274 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 12:11:279 INFO  ExcelHelper:66 - Added: cell number [0][0]->shadman
+11-14-2018 12:11:279 INFO  ExcelHelper:66 - Added: cell number [0][1]->shadmanPass
+11-14-2018 12:11:280 INFO  ExcelHelper:66 - Added: cell number [1][0]->saleh
+11-14-2018 12:11:280 INFO  ExcelHelper:66 - Added: cell number [1][1]->Pass
+11-14-2018 12:11:280 INFO  ExcelHelper:66 - Added: cell number [2][0]->shahriyar
+11-14-2018 12:11:281 INFO  ExcelHelper:66 - Added: cell number [2][1]->shahriyarPass
+11-14-2018 12:11:311 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-14-2018 12:11:315 INFO  PropertyReader:25 - Property file loaded
+11-14-2018 12:11:876 INFO  TestBase:119 - Browser is being initialized193388045
+11-14-2018 12:11:878 INFO  PropertyReader:34 - setting up implicit wait
+11-14-2018 12:11:879 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-14-2018 12:11:889 INFO  PropertyReader:44 - setting up pageLoad wait
+11-14-2018 12:11:889 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-14-2018 12:11:893 INFO  WaitHelper:159 - page is loaded
+11-14-2018 12:11:158 INFO  TestBase:196 - launching https://www.dunkindonuts.com/en
+11-14-2018 12:11:654 INFO  Homepage:34 - Homepage initializing...
+11-14-2018 12:11:719 INFO  PropertyReader:39 - setting up explicit wait
+11-14-2018 12:11:799 INFO  Homepage:39 - pagefactory for homepage loaded... Homepage initialized.
+11-14-2018 12:11:799 INFO  TestBase:185 - Capturing screen : Homepage
+11-14-2018 12:11:454 INFO  TestBase:173 - Taking ScreenShot : Homepage_32-14-2018_12:32:53.png
+11-14-2018 12:11:475 INFO  Homepage:44 - Clicking on SignInLinkOnTop
+11-14-2018 12:11:475 INFO  PropertyReader:39 - setting up explicit wait
+11-14-2018 12:11:703 INFO  Homepage:48 - Clicked
+11-14-2018 12:11:706 INFO  SignInPage:42 - SignInPage initializing...
+11-14-2018 12:11:707 INFO  PropertyReader:39 - setting up explicit wait
+11-14-2018 12:11:812 INFO  SignInPage:47 - pagefactory for SignInPage loaded... SignInPage initialized.
+11-14-2018 12:11:813 INFO  TestBase:185 - Capturing screen : SignInPage
+11-14-2018 12:11:806 INFO  TestBase:173 - Taking ScreenShot : SignInPage_32-14-2018_12:32:57.png
+11-14-2018 12:11:860 INFO  VerificationHelper:31 - element is displayed : ACCOUNT SIGN IN
+11-14-2018 12:11:862 INFO  AssertionHelper:28 - making test passed
+11-14-2018 12:11:206 INFO  ExcelHelper:35 - Trying to read excel sheet
+11-14-2018 12:11:206 INFO  ExcelHelper:36 - /Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/excelfiles/workbook.xlsx
+11-14-2018 12:11:207 INFO  ExcelHelper:38 - successfully converted xlxs to fileinputstream
+11-14-2018 12:11:828 INFO  ExcelHelper:40 - got the workbook
+11-14-2018 12:11:829 INFO  ExcelHelper:42 - got the sheet : login
+11-14-2018 12:11:829 INFO  ExcelHelper:44 - total number of row : 3
+11-14-2018 12:11:830 INFO  ExcelHelper:46 - total number of collumn : 2
+11-14-2018 12:11:830 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 12:11:830 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 12:11:836 INFO  ExcelHelper:66 - Added: cell number [0][0]->shadman
+11-14-2018 12:11:837 INFO  ExcelHelper:66 - Added: cell number [0][1]->shadmanPass
+11-14-2018 12:11:837 INFO  ExcelHelper:66 - Added: cell number [1][0]->saleh
+11-14-2018 12:11:838 INFO  ExcelHelper:66 - Added: cell number [1][1]->Pass
+11-14-2018 12:11:838 INFO  ExcelHelper:66 - Added: cell number [2][0]->shahriyar
+11-14-2018 12:11:838 INFO  ExcelHelper:66 - Added: cell number [2][1]->shahriyarPass
+11-14-2018 12:11:841 INFO  SignInPage:61 - putting username
+11-14-2018 12:11:49 INFO  SignInPage:63 - putting password
+11-14-2018 12:11:294 INFO  SignInPage:65 - clicking on sign in button
+11-14-2018 12:11:792 INFO  SignInPage:67 - clicked
+11-14-2018 12:11:885 INFO  VerificationHelper:31 - element is displayed : Sign In
+Email Address*
+This value should be a valid email.
+Password*
+Forgot your password?
+  *Required
+11-14-2018 12:11:886 INFO  AssertionHelper:57 - making test failed -> msg : Error: incorrect credentials -> shadman | shadmanPass
+11-14-2018 12:11:482 INFO  TestBase:143 - Taking ScreenShot
+11-14-2018 12:11:535 INFO  SignInPage:61 - putting username
+11-14-2018 12:11:636 INFO  SignInPage:63 - putting password
+11-14-2018 12:11:712 INFO  SignInPage:65 - clicking on sign in button
+11-14-2018 12:11:172 INFO  SignInPage:67 - clicked
+11-14-2018 12:11:222 INFO  VerificationHelper:31 - element is displayed : Sign In
+Email Address*
+This value should be a valid email.
+Password*
+Forgot your password?
+  *Required
+11-14-2018 12:11:223 INFO  AssertionHelper:57 - making test failed -> msg : Error: incorrect credentials -> saleh | Pass
+11-14-2018 12:11:766 INFO  TestBase:143 - Taking ScreenShot
+11-14-2018 12:11:807 INFO  SignInPage:61 - putting username
+11-14-2018 12:11:934 INFO  SignInPage:63 - putting password
+11-14-2018 12:11:82 INFO  SignInPage:65 - clicking on sign in button
+11-14-2018 12:11:521 INFO  SignInPage:67 - clicked
+11-14-2018 12:11:574 INFO  VerificationHelper:31 - element is displayed : Sign In
+Email Address*
+This value should be a valid email.
+Password*
+Forgot your password?
+  *Required
+11-14-2018 12:11:574 INFO  AssertionHelper:57 - making test failed -> msg : Error: incorrect credentials -> shahriyar | shahriyarPass
+11-14-2018 12:11:120 INFO  TestBase:143 - Taking ScreenShot
+11-14-2018 12:11:173 INFO  TestBase:91 - driver is quiting
+11-14-2018 12:11:368 INFO  TestBase:93 - driver quit
+11-14-2018 14:11:946 INFO  ExcelHelper:35 - Trying to read excel sheet
+11-14-2018 14:11:952 INFO  ExcelHelper:36 - /Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/excelfiles/workbook.xlsx
+11-14-2018 14:11:952 INFO  ExcelHelper:38 - successfully converted xlxs to fileinputstream
+11-14-2018 14:11:727 INFO  ExcelHelper:40 - got the workbook
+11-14-2018 14:11:729 INFO  ExcelHelper:42 - got the sheet : login
+11-14-2018 14:11:729 INFO  ExcelHelper:44 - total number of row : 3
+11-14-2018 14:11:730 INFO  ExcelHelper:46 - total number of collumn : 2
+11-14-2018 14:11:730 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 14:11:730 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 14:11:735 INFO  ExcelHelper:66 - Added: cell number [0][0]->shadman
+11-14-2018 14:11:735 INFO  ExcelHelper:66 - Added: cell number [0][1]->shadmanPass
+11-14-2018 14:11:736 INFO  ExcelHelper:66 - Added: cell number [1][0]->saleh
+11-14-2018 14:11:737 INFO  ExcelHelper:66 - Added: cell number [1][1]->Pass
+11-14-2018 14:11:737 INFO  ExcelHelper:66 - Added: cell number [2][0]->shahriyar
+11-14-2018 14:11:737 INFO  ExcelHelper:66 - Added: cell number [2][1]->shahriyarPass
+11-14-2018 14:11:784 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-14-2018 14:11:789 INFO  PropertyReader:25 - Property file loaded
+11-14-2018 14:11:399 INFO  TestBase:119 - Browser is being initialized193388045
+11-14-2018 14:11:404 INFO  PropertyReader:34 - setting up implicit wait
+11-14-2018 14:11:404 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-14-2018 14:11:412 INFO  PropertyReader:44 - setting up pageLoad wait
+11-14-2018 14:11:412 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-14-2018 14:11:417 INFO  WaitHelper:159 - page is loaded
+11-14-2018 14:11:718 INFO  TestBase:196 - launching https://www.dunkindonuts.com/en
+11-14-2018 14:11:284 INFO  Homepage:34 - Homepage initializing...
+11-14-2018 14:11:307 INFO  PropertyReader:39 - setting up explicit wait
+11-14-2018 14:11:365 INFO  Homepage:39 - pagefactory for homepage loaded... Homepage initialized.
+11-14-2018 14:11:366 INFO  TestBase:185 - Capturing screen : Homepage
+11-14-2018 14:11:995 INFO  TestBase:173 - Taking ScreenShot : Homepage_30-14-2018_02:30:52.png
+11-14-2018 14:11:14 INFO  Homepage:44 - Clicking on SignInLinkOnTop
+11-14-2018 14:11:14 INFO  PropertyReader:39 - setting up explicit wait
+11-14-2018 14:11:682 INFO  Homepage:48 - Clicked
+11-14-2018 14:11:683 INFO  SignInPage:42 - SignInPage initializing...
+11-14-2018 14:11:686 INFO  PropertyReader:39 - setting up explicit wait
+11-14-2018 14:11:736 INFO  SignInPage:47 - pagefactory for SignInPage loaded... SignInPage initialized.
+11-14-2018 14:11:736 INFO  TestBase:185 - Capturing screen : SignInPage
+11-14-2018 14:11:765 INFO  TestBase:173 - Taking ScreenShot : SignInPage_30-14-2018_02:30:56.png
+11-14-2018 14:11:820 INFO  VerificationHelper:31 - element is displayed : ACCOUNT SIGN IN
+11-14-2018 14:11:822 INFO  AssertionHelper:28 - making test passed
+11-14-2018 14:11:183 INFO  ExcelHelper:35 - Trying to read excel sheet
+11-14-2018 14:11:183 INFO  ExcelHelper:36 - /Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/excelfiles/workbook.xlsx
+11-14-2018 14:11:184 INFO  ExcelHelper:39 - successfully converted xlxs to fileinputstream
+11-14-2018 14:11:812 INFO  ExcelHelper:41 - got the workbook
+11-14-2018 14:11:813 INFO  ExcelHelper:43 - got the sheet : login
+11-14-2018 14:11:813 INFO  ExcelHelper:45 - total number of row : 3
+11-14-2018 14:11:814 INFO  ExcelHelper:47 - total number of collumn : 2
+11-14-2018 14:11:814 INFO  ExcelHelper:71 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 14:11:814 INFO  ExcelHelper:71 - Important : Ignoring first row. Because it contains only headers
+11-14-2018 14:11:820 INFO  ExcelHelper:67 - Added: cell number [0][0]->shadman
+11-14-2018 14:11:820 INFO  ExcelHelper:67 - Added: cell number [0][1]->shadmanPass
+11-14-2018 14:11:821 INFO  ExcelHelper:67 - Added: cell number [1][0]->saleh
+11-14-2018 14:11:821 INFO  ExcelHelper:67 - Added: cell number [1][1]->Pass
+11-14-2018 14:11:822 INFO  ExcelHelper:67 - Added: cell number [2][0]->shahriyar
+11-14-2018 14:11:822 INFO  ExcelHelper:67 - Added: cell number [2][1]->shahriyarPass
+11-14-2018 14:11:825 INFO  SignInPage:61 - putting username
+11-14-2018 14:11:29 INFO  SignInPage:63 - putting password
+11-14-2018 14:11:255 INFO  SignInPage:65 - clicking on sign in button
+11-14-2018 14:11:857 INFO  SignInPage:67 - clicked
+11-14-2018 14:11:986 INFO  VerificationHelper:31 - element is displayed : Sign In
+Email Address*
+This value should be a valid email.
+Password*
+Forgot your password?
+  *Required
+11-14-2018 14:11:987 INFO  AssertionHelper:57 - making test failed -> msg : Error: incorrect credentials -> shadman | shadmanPass
+11-14-2018 14:11:620 INFO  TestBase:143 - Taking ScreenShot
+11-14-2018 14:11:692 INFO  SignInPage:61 - putting username
+11-14-2018 14:11:798 INFO  SignInPage:63 - putting password
+11-14-2018 14:11:907 INFO  SignInPage:65 - clicking on sign in button
+11-14-2018 14:11:441 INFO  SignInPage:67 - clicked
+11-14-2018 14:11:501 INFO  VerificationHelper:31 - element is displayed : Sign In
+Email Address*
+This value should be a valid email.
+Password*
+Forgot your password?
+  *Required
+11-14-2018 14:11:502 INFO  AssertionHelper:57 - making test failed -> msg : Error: incorrect credentials -> saleh | Pass
+11-14-2018 14:11:59 INFO  TestBase:143 - Taking ScreenShot
+11-14-2018 14:11:102 INFO  SignInPage:61 - putting username
+11-14-2018 14:11:219 INFO  SignInPage:63 - putting password
+11-14-2018 14:11:357 INFO  SignInPage:65 - clicking on sign in button
+11-14-2018 14:11:713 INFO  SignInPage:67 - clicked
+11-14-2018 14:11:775 INFO  VerificationHelper:31 - element is displayed : Sign In
+Email Address*
+This value should be a valid email.
+Password*
+Forgot your password?
+  *Required
+11-14-2018 14:11:775 INFO  AssertionHelper:57 - making test failed -> msg : Error: incorrect credentials -> shahriyar | shahriyarPass
+11-14-2018 14:11:353 INFO  TestBase:143 - Taking ScreenShot
+11-14-2018 14:11:395 INFO  TestBase:91 - driver is quiting
+11-14-2018 14:11:553 INFO  TestBase:93 - driver quit
+11-21-2018 15:11:387 INFO  ExtentListener:31 - TestA test started...
+11-21-2018 15:11:433 INFO  ExtentListener:54 - loginTest test started...
+11-21-2018 15:11:439 INFO  ExtentListener:60 - loginTest test passed...
+11-21-2018 15:11:441 INFO  ExtentListener:54 - loginTest test started...
+11-21-2018 15:11:443 INFO  ExtentListener:60 - loginTest test passed...
+11-21-2018 15:11:446 INFO  ExtentListener:54 - loginTest test started...
+11-21-2018 15:11:468 INFO  ExtentListener:60 - loginTest test passed...
+11-21-2018 15:11:469 INFO  ExtentListener:54 - loginTest test started...
+11-21-2018 15:11:472 INFO  ExtentListener:60 - loginTest test passed...
+11-21-2018 15:11:510 INFO  ExtentListener:24 - TestA test finished...
+11-21-2018 15:11:512 INFO  ExtentListener:31 - TestB test started...
+11-21-2018 15:11:516 INFO  ExtentListener:54 - loginTestB test started...
+11-21-2018 15:11:521 INFO  ExtentListener:60 - loginTestB test passed...
+11-21-2018 15:11:526 INFO  ExtentListener:24 - TestB test finished...
+11-21-2018 15:11:530 INFO  ExtentListener:31 - TestC test started...
+11-21-2018 15:11:534 INFO  ExtentListener:54 - loginTestC test started...
+11-21-2018 15:11:538 INFO  ExtentListener:60 - loginTestC test passed...
+11-21-2018 15:11:543 INFO  ExtentListener:24 - TestC test finished...
+11-21-2018 15:11:544 INFO  ExtentListener:31 - TestScreenShot test started...
+11-21-2018 15:11:548 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+11-21-2018 15:11:548 INFO  PropertyReader:25 - Property file loaded
+11-21-2018 15:11:439 INFO  TestBase:119 - Browser is being initialized1272123492
+11-21-2018 15:11:441 INFO  PropertyReader:34 - setting up implicit wait
+11-21-2018 15:11:442 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+11-21-2018 15:11:453 INFO  PropertyReader:44 - setting up pageLoad wait
+11-21-2018 15:11:453 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+11-21-2018 15:11:458 INFO  WaitHelper:159 - page is loaded
+11-21-2018 15:11:691 INFO  ExtentListener:54 - testScreen test started...
+11-21-2018 15:11:568 INFO  TestBase:143 - Taking ScreenShot
+11-21-2018 15:11:579 INFO  ExtentListener:60 - testScreen test passed...
+11-21-2018 15:11:910 INFO  TestBase:91 - driver is quiting
+11-21-2018 15:11:71 INFO  TestBase:93 - driver quit
+11-21-2018 15:11:82 INFO  ExtentListener:24 - TestScreenShot test finished...
+12-04-2018 17:12:505 INFO  PropertyReader:21 - Trying to read :/Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/configfile/config.properties
+12-04-2018 17:12:509 INFO  PropertyReader:25 - Property file loaded
+12-04-2018 17:12:978 INFO  TestBase:119 - Browser is being initialized193388045
+12-04-2018 17:12:980 INFO  PropertyReader:35 - setting up implicit wait
+12-04-2018 17:12:981 INFO  WaitHelper:41 - Implicit wait has been set to: 20
+12-04-2018 17:12:990 INFO  PropertyReader:45 - setting up pageLoad wait
+12-04-2018 17:12:991 INFO  WaitHelper:157 - waiting for page to load for :SECONDS seconds
+12-04-2018 17:12:995 INFO  WaitHelper:159 - page is loaded
+12-04-2018 17:12:249 INFO  TestBase:196 - launching https://www.dunkindonuts.com/en
+12-04-2018 17:12:611 INFO  Homepage:37 - Homepage initializing...
+12-04-2018 17:12:662 INFO  PropertyReader:40 - setting up explicit wait
+12-04-2018 17:12:741 INFO  Homepage:42 - pagefactory for homepage loaded... Homepage initialized.
+12-04-2018 17:12:741 INFO  TestBase:185 - Capturing screen : Homepage
+12-04-2018 17:12:344 INFO  TestBase:173 - Taking ScreenShot : Homepage_59-04-2018_05:59:55.png
+12-04-2018 17:12:358 INFO  Homepage:47 - Clicking on SignInLinkOnTop
+12-04-2018 17:12:358 INFO  PropertyReader:40 - setting up explicit wait
+12-04-2018 17:12:279 INFO  Homepage:51 - Clicked
+12-04-2018 17:12:282 INFO  SignInPage:42 - SignInPage initializing...
+12-04-2018 17:12:284 INFO  PropertyReader:40 - setting up explicit wait
+12-04-2018 17:12:380 INFO  SignInPage:47 - pagefactory for SignInPage loaded... SignInPage initialized.
+12-04-2018 17:12:381 INFO  TestBase:185 - Capturing screen : SignInPage
+12-04-2018 18:12:379 INFO  TestBase:173 - Taking ScreenShot : SignInPage_59-04-2018_05:59:59.png
+12-04-2018 18:12:432 INFO  VerificationHelper:31 - element is displayed : ACCOUNT SIGN IN
+12-04-2018 18:12:434 INFO  AssertionHelper:28 - making test passed
+12-04-2018 18:12:755 INFO  ExcelHelper:34 - Trying to read excel sheet
+12-04-2018 18:12:755 INFO  ExcelHelper:35 - /Users/shadmanshahriyar/Documents/qaClass/java/newJava/dunkin/src/main/resources/excelfiles/workbook.xlsx
+12-04-2018 18:12:756 INFO  ExcelHelper:38 - successfully converted xlxs to fileinputstream
+12-04-2018 18:12:460 INFO  ExcelHelper:40 - got the workbook
+12-04-2018 18:12:461 INFO  ExcelHelper:42 - got the sheet : login
+12-04-2018 18:12:461 INFO  ExcelHelper:44 - total number of row : 3
+12-04-2018 18:12:462 INFO  ExcelHelper:46 - total number of collumn : 2
+12-04-2018 18:12:462 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+12-04-2018 18:12:462 INFO  ExcelHelper:70 - Important : Ignoring first row. Because it contains only headers
+12-04-2018 18:12:468 INFO  ExcelHelper:66 - Added: cell number [0][0]->shadman
+12-04-2018 18:12:468 INFO  ExcelHelper:66 - Added: cell number [0][1]->shadmanPass
+12-04-2018 18:12:469 INFO  ExcelHelper:66 - Added: cell number [1][0]->saleh
+12-04-2018 18:12:469 INFO  ExcelHelper:66 - Added: cell number [1][1]->Pass
+12-04-2018 18:12:469 INFO  ExcelHelper:66 - Added: cell number [2][0]->shahriyar
+12-04-2018 18:12:470 INFO  ExcelHelper:66 - Added: cell number [2][1]->shahriyarPass
+12-04-2018 18:12:473 INFO  SignInPage:61 - putting username
+12-04-2018 18:12:680 INFO  SignInPage:63 - putting password
+12-04-2018 18:12:890 INFO  SignInPage:65 - clicking on sign in button
+12-04-2018 18:12:309 INFO  SignInPage:67 - clicked
+12-04-2018 18:12:387 INFO  VerificationHelper:31 - element is displayed : Sign In
+Email Address*
+This value should be a valid email.
+Password*
+Forgot your password?
+  *Required
+12-04-2018 18:12:388 INFO  AssertionHelper:57 - making test failed -> msg : Error: incorrect credentials -> shadman | shadmanPass
+12-04-2018 18:12:989 INFO  TestBase:143 - Taking ScreenShot
+12-04-2018 18:12:35 INFO  SignInPage:61 - putting username
+12-04-2018 18:12:145 INFO  SignInPage:63 - putting password
+12-04-2018 18:12:227 INFO  SignInPage:65 - clicking on sign in button
+12-04-2018 18:12:644 INFO  SignInPage:67 - clicked
+12-04-2018 18:12:692 INFO  VerificationHelper:31 - element is displayed : Sign In
+Email Address*
+This value should be a valid email.
+Password*
+Forgot your password?
+  *Required
+12-04-2018 18:12:693 INFO  AssertionHelper:57 - making test failed -> msg : Error: incorrect credentials -> saleh | Pass
+12-04-2018 18:12:227 INFO  TestBase:143 - Taking ScreenShot
+12-04-2018 18:12:261 INFO  SignInPage:61 - putting username
+12-04-2018 18:12:365 INFO  SignInPage:63 - putting password
+12-04-2018 18:12:496 INFO  SignInPage:65 - clicking on sign in button
+12-04-2018 18:12:848 INFO  SignInPage:67 - clicked
+12-04-2018 18:12:902 INFO  VerificationHelper:31 - element is displayed : Sign In
+Email Address*
+This value should be a valid email.
+Password*
+Forgot your password?
+  *Required
+12-04-2018 18:12:902 INFO  AssertionHelper:57 - making test failed -> msg : Error: incorrect credentials -> shahriyar | shahriyarPass
+12-04-2018 18:12:453 INFO  TestBase:143 - Taking ScreenShot
+12-04-2018 18:12:496 INFO  TestBase:91 - driver is quiting
+12-04-2018 18:12:664 INFO  TestBase:93 - driver quit
